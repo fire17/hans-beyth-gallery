@@ -585,6 +585,17 @@
       "local_is_summary": true,
       "local_readable": true,
       "available_local": true,
+      "enhancement": {
+        "image_url": "assets/7e635fb2905d5e4c.png",
+        "original_width": 405,
+        "original_height": 600,
+        "enhanced_width": 1030,
+        "enhanced_height": 1526,
+        "note_de": "KI-bearbeitete Version; das historische Original bleibt separat erhalten.",
+        "note_en": "AI-enhanced derivative; the historical original remains separately available. Fine details may be AI-interpreted and are not verified recovery.",
+        "note_he": "גרסה משופרת באמצעות בינה מלאכותית; התצלום המקורי נשמר בנפרד. פרטים עדינים עשויים להיות פרשנות של הבינה המלאכותית ואינם שחזור מאומת.",
+        "method": "AI enhancement"
+      },
       "translations": {
         "de": {
           "title": "Hans Beyth und Henrietta Szold auf einer Reise in Galiläa",
@@ -674,6 +685,17 @@
       "local_is_summary": true,
       "local_readable": true,
       "available_local": true,
+      "enhancement": {
+        "image_url": "assets/671c4cea0a0512ff.png",
+        "original_width": 408,
+        "original_height": 346,
+        "enhanced_width": 1362,
+        "enhanced_height": 1155,
+        "note_de": "KI-bearbeitete Version; das historische Original bleibt separat erhalten.",
+        "note_en": "AI-enhanced derivative; the historical original remains separately available. Fine details may be AI-interpreted and are not verified recovery.",
+        "note_he": "גרסה משופרת באמצעות בינה מלאכותית; התצלום המקורי נשמר בנפרד. פרטים עדינים עשויים להיות פרשנות של הבינה המלאכותית ואינם שחזור מאומת.",
+        "method": "AI enhancement"
+      },
       "translations": {
         "de": {
           "title": "Hans Beyth zeigt das Modell von Bet Hashita",
@@ -1670,9 +1692,9 @@
       }
     }
   ],
-  "revision": "0697239638f2dbf8",
+  "revision": "121290a145ef1180",
   "ui_revision": "aaee8d48ab7434b0",
   "live": false,
-  "updated_at": "2026-09-30T17:21:05.034Z",
-  "published_at": "2026-09-30T17:21:05.218Z"
+  "updated_at": "2026-09-30T17:27:19.564Z",
+  "published_at": "2026-09-30T17:27:19.734Z"
 }
