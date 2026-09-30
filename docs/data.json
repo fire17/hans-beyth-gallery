@@ -1,0 +1,1468 @@
+{
+  "items": [
+    {
+      "id": "local-hans-lotte",
+      "kind": "photo",
+      "title_de": "Hans und Lotte Beyth",
+      "summary_de": "Historische Aufnahme eines sitzenden Paares. Die Namen Hans und Lotte Beyth stammen aus der Dateibezeichnung des Familienbestands.",
+      "original_title": "הנס ולוטה בייט 2.jpg",
+      "date_label": null,
+      "source_name": "Familienbestand auf diesem Computer",
+      "source_url": null,
+      "image_url": "assets/c41311c3e6b85a5e.jpg",
+      "provenance": "source_caption",
+      "rights_note_de": "Aus dem lokalen Familienbestand; Bildzuordnung nach dem vorhandenen Dateinamen.",
+      "origin": "local",
+      "original_source_url": null,
+      "local_asset": true,
+      "local_file_url": null,
+      "local_readable": false,
+      "available_local": true,
+      "translations": {
+        "de": {
+          "title": "Hans und Lotte Beyth",
+          "summary": "Historische Aufnahme eines sitzenden Paares. Die Namen Hans und Lotte Beyth stammen aus der Dateibezeichnung des Familienbestands.",
+          "rights_note": "Aus dem lokalen Familienbestand; Bildzuordnung nach dem vorhandenen Dateinamen."
+        },
+        "en": {
+          "title": "Hans and Lotte Beyth",
+          "summary": "A historical photograph of a seated couple. The names Hans and Lotte Beyth come from the filename in the family collection.",
+          "rights_note": "From the local family collection; identification follows the preserved filename.",
+          "source_name": "Family collection on this computer"
+        },
+        "he": {
+          "title": "הנס ולוטה בייט",
+          "summary": "תצלום היסטורי של זוג יושב. השמות הנס ולוטה בייט מופיעים בשם הקובץ שבאוסף המשפחתי.",
+          "rights_note": "מהאוסף המשפחתי המקומי; זיהוי התצלום מבוסס על שם הקובץ הקיים.",
+          "source_name": "האוסף המשפחתי במחשב זה"
+        }
+      }
+    },
+    {
+      "id": "local-lod-1935",
+      "kind": "photo",
+      "title_de": "Hans Beyth und Henrietta Szold am Bahnhof Lod",
+      "summary_de": "Drei Personen stehen neben einem Eisenbahnwagen. Die Dateibezeichnung nennt Henrietta Szold und Hans Beyth sowie den Bahnhof Lod am 14. August 1935.",
+      "original_title": "הנריאטה סולד והנס בייט בתחנת רכבת לוד אוג 14 1935.jpg",
+      "date_label": "14. August 1935 (laut Dateiname)",
+      "source_name": "Familienbestand auf diesem Computer",
+      "source_url": null,
+      "image_url": "assets/1ce125cd8fce706b.jpg",
+      "provenance": "source_caption",
+      "rights_note_de": "Aus dem lokalen Familienbestand; Bildzuordnung nach dem vorhandenen Dateinamen.",
+      "origin": "local",
+      "original_source_url": null,
+      "local_asset": true,
+      "local_file_url": null,
+      "local_readable": false,
+      "available_local": true,
+      "translations": {
+        "de": {
+          "title": "Hans Beyth und Henrietta Szold am Bahnhof Lod",
+          "summary": "Drei Personen stehen neben einem Eisenbahnwagen. Die Dateibezeichnung nennt Henrietta Szold und Hans Beyth sowie den Bahnhof Lod am 14. August 1935.",
+          "rights_note": "Aus dem lokalen Familienbestand; Bildzuordnung nach dem vorhandenen Dateinamen."
+        },
+        "en": {
+          "title": "Hans Beyth and Henrietta Szold at Lod railway station",
+          "summary": "Three people stand beside a railway carriage. The filename names Henrietta Szold and Hans Beyth and specifies Lod railway station on 14 August 1935.",
+          "rights_note": "From the local family collection; identification follows the preserved filename.",
+          "date_label": "14 August 1935 (according to filename)",
+          "source_name": "Family collection on this computer"
+        },
+        "he": {
+          "title": "הנס בייט והנריאטה סאלד בתחנת הרכבת בלוד",
+          "summary": "שלוש דמויות עומדות לצד קרון רכבת. שם הקובץ מציין את הנריאטה סאלד והנס בייט ואת תחנת לוד ב־14 באוגוסט 1935.",
+          "rights_note": "מהאוסף המשפחתי המקומי; זיהוי התצלום מבוסס על שם הקובץ הקיים.",
+          "date_label": "14 באוגוסט 1935 (לפי שם הקובץ)",
+          "source_name": "האוסף המשפחתי במחשב זה"
+        }
+      }
+    },
+    {
+      "id": "local-farm-1938-1939",
+      "kind": "photo",
+      "title_de": "Besuch auf Karls Hof in Kfar Shmaryahu",
+      "summary_de": "Eine Gruppe von vier Personen steht vor einem landwirtschaftlichen Grundstück. Die Dateinamen bezeichnen die Szene als Besuch von Hans Beyth auf Karls Hof.",
+      "original_title": "ביקור הנס במשק קרל בכפר שמריהו 1939.png",
+      "date_label": "1938 oder 1939",
+      "note_de": "Zwei Dateien zeigen dieselbe Aufnahme, nennen aber unterschiedliche Jahre: 1938 und 1939. Das Aufnahmedatum wurde nicht unabhängig bestätigt.",
+      "source_name": "Familienbestand auf diesem Computer",
+      "source_url": null,
+      "image_url": "assets/82a75b7126909c93.png",
+      "provenance": "source_caption",
+      "rights_note_de": "Aus dem lokalen Familienbestand; Bildzuordnung nach dem vorhandenen Dateinamen.",
+      "origin": "local",
+      "original_source_url": null,
+      "local_asset": true,
+      "local_file_url": null,
+      "local_readable": false,
+      "available_local": true,
+      "enhancement": {
+        "image_url": "assets/54f4f6839f1c2c1a.png",
+        "original_width": 742,
+        "original_height": 498,
+        "enhanced_width": 1531,
+        "enhanced_height": 1027,
+        "note_de": "KI-bearbeitete Version; das historische Original bleibt separat erhalten.",
+        "note_en": "AI-enhanced derivative; the historical original remains available separately. Fine details may be interpreted by AI and are not verified recovery.",
+        "note_he": "גרסה משופרת באמצעות בינה מלאכותית; התצלום ההיסטורי המקורי נשמר בנפרד. פרטים עדינים עשויים להיות פרשנות של הבינה המלאכותית ואינם שחזור מאומת.",
+        "method": "AI enhancement"
+      },
+      "translations": {
+        "de": {
+          "title": "Besuch auf Karls Hof in Kfar Shmaryahu",
+          "summary": "Eine Gruppe von vier Personen steht vor einem landwirtschaftlichen Grundstück. Die Dateinamen bezeichnen die Szene als Besuch von Hans Beyth auf Karls Hof.",
+          "note": "Zwei Dateien zeigen dieselbe Aufnahme, nennen aber unterschiedliche Jahre: 1938 und 1939. Das Aufnahmedatum wurde nicht unabhängig bestätigt.",
+          "rights_note": "Aus dem lokalen Familienbestand; Bildzuordnung nach dem vorhandenen Dateinamen."
+        },
+        "en": {
+          "title": "A visit to Karl’s farm in Kfar Shmaryahu",
+          "summary": "Four people stand in front of agricultural land. The filenames describe the scene as Hans Beyth’s visit to Karl’s farm.",
+          "note": "Two files show the same photograph but give different years: 1938 and 1939. The date has not been independently confirmed.",
+          "rights_note": "From the local family collection; identification follows the preserved filename.",
+          "date_label": "1938 or 1939",
+          "source_name": "Family collection on this computer"
+        },
+        "he": {
+          "title": "ביקור במשק של קרל בכפר שמריהו",
+          "summary": "ארבע דמויות עומדות לפני שטח חקלאי. שמות הקבצים מתארים את האירוע כביקור של הנס בייט במשק של קרל.",
+          "note": "שני קבצים מציגים את אותו התצלום אך מציינים שנים שונות: 1938 ו־1939. תאריך הצילום לא אומת באופן עצמאי.",
+          "rights_note": "מהאוסף המשפחתי המקומי; זיהוי התצלום מבוסס על שם הקובץ הקיים.",
+          "date_label": "1938 או 1939",
+          "source_name": "האוסף המשפחתי במחשב זה"
+        }
+      }
+    },
+    {
+      "id": "commons-hans-beyth-portrait",
+      "kind": "photo",
+      "title_de": "Porträt von Hans Beyth",
+      "summary_de": "Ein undatiertes Porträt zeigt Hans Beyth. Laut Dateiseite stammt das Bild aus dem Besitz der Familie Beyth.",
+      "source_name": "Wikimedia Commons / Beyth family",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hans_Beyth.jpg",
+      "image_url": "assets/7505046143326a37.jpg",
+      "original_title": "Hans Beyth.jpg",
+      "date_label": null,
+      "provenance": "source_caption",
+      "rights_note_de": "Commons nennt die Familie Beyth als Quelle und vermerkt eine bestätigte Freigabe; die Dateiseite enthält die maßgeblichen Nutzungsangaben.",
+      "availability": "local",
+      "source_copy_type": "curated_summary_not_original",
+      "source_copy_available": true,
+      "origin": "web",
+      "original_source_url": "https://commons.wikimedia.org/wiki/File:Hans_Beyth.jpg",
+      "local_asset": true,
+      "local_file_url": "assets/b01e05f1d835c53a.txt",
+      "local_readable": true,
+      "available_local": true,
+      "translations": {
+        "de": {
+          "title": "Porträt von Hans Beyth",
+          "summary": "Ein undatiertes Porträt zeigt Hans Beyth. Laut Dateiseite stammt das Bild aus dem Besitz der Familie Beyth.",
+          "rights_note": "Commons nennt die Familie Beyth als Quelle und vermerkt eine bestätigte Freigabe; die Dateiseite enthält die maßgeblichen Nutzungsangaben."
+        },
+        "en": {
+          "title": "Portrait of Hans Beyth",
+          "summary": "An undated portrait of Hans Beyth. The file’s source page states that it comes from the Beyth family’s collection.",
+          "rights_note": "Commons names the Beyth family as the source and records confirmed permission; the file page contains the applicable usage terms."
+        },
+        "he": {
+          "title": "דיוקן של הנס בייט",
+          "summary": "דיוקן ללא תאריך של הנס בייט. לפי דף הקובץ, התצלום הגיע מאוסף משפחת בייט.",
+          "rights_note": "ויקישיתוף מציין את משפחת בייט כמקור ואישור פרסום מאומת; תנאי השימוש הקובעים מופיעים בדף הקובץ."
+        }
+      }
+    },
+    {
+      "id": "local-hans-folder-foto1",
+      "kind": "photo",
+      "title_de": "Menschenmenge auf einer Straße",
+      "summary_de": "Historische Straßenaufnahme mit einer großen Menschenmenge. Die Datei liegt im Familienordner „Hans Photos“.",
+      "original_title": "foto1.jpg",
+      "image_url": "assets/216887be84533b18.jpg",
+      "source_name": "Familienordner Hans Photos",
+      "source_url": null,
+      "date_label": null,
+      "provenance": "source_caption",
+      "note_de": "Ob Hans Beyth auf dieser Aufnahme zu sehen ist, wurde nicht bestätigt.",
+      "rights_note_de": "Lokaler Familienbestand; keine unabhängige Zuordnung der abgebildeten Personen.",
+      "origin": "local",
+      "original_source_url": null,
+      "local_asset": true,
+      "local_file_url": null,
+      "local_readable": false,
+      "available_local": true,
+      "translations": {
+        "de": {
+          "title": "Menschenmenge auf einer Straße",
+          "summary": "Historische Straßenaufnahme mit einer großen Menschenmenge. Die Datei liegt im Familienordner „Hans Photos“.",
+          "note": "Ob Hans Beyth auf dieser Aufnahme zu sehen ist, wurde nicht bestätigt.",
+          "rights_note": "Lokaler Familienbestand; keine unabhängige Zuordnung der abgebildeten Personen."
+        },
+        "en": {
+          "title": "A crowd in a street",
+          "summary": "A historical street photograph showing a large crowd. The file is kept in the family folder ‘Hans Photos’.",
+          "note": "It has not been confirmed whether Hans Beyth appears in this photograph.",
+          "rights_note": "Local family collection; the identities of those pictured have not been independently verified.",
+          "source_name": "Family folder: Hans Photos"
+        },
+        "he": {
+          "title": "קהל רב ברחוב",
+          "summary": "תצלום רחוב היסטורי ובו קהל רב. הקובץ נמצא בתיקייה המשפחתית Hans Photos.",
+          "note": "לא אושר שהנס בייט מופיע בתצלום זה.",
+          "rights_note": "אוסף משפחתי מקומי; זהות המצולמים לא אומתה באופן עצמאי.",
+          "source_name": "התיקייה המשפחתית Hans Photos"
+        }
+      }
+    },
+    {
+      "id": "local-hans-folder-foto2",
+      "kind": "photo",
+      "title_de": "Historische Gruppenaufnahme",
+      "summary_de": "Nahaufnahme mehrerer Personen auf einer gepflasterten Fläche. Die Datei liegt im Familienordner „Hans Photos“.",
+      "original_title": "foto2.jpg",
+      "image_url": "assets/39da065c52cc9a2c.jpg",
+      "source_name": "Familienordner Hans Photos",
+      "source_url": null,
+      "date_label": null,
+      "provenance": "source_caption",
+      "note_de": "Ob Hans Beyth auf dieser Aufnahme zu sehen ist, wurde nicht bestätigt.",
+      "rights_note_de": "Lokaler Familienbestand; keine unabhängige Zuordnung der abgebildeten Personen.",
+      "origin": "local",
+      "original_source_url": null,
+      "local_asset": true,
+      "local_file_url": null,
+      "local_readable": false,
+      "available_local": true,
+      "enhancement": {
+        "image_url": "assets/6ebd820c65f0769e.png",
+        "original_width": 1067,
+        "original_height": 1414,
+        "enhanced_width": 1089,
+        "enhanced_height": 1444,
+        "note_de": "KI-bearbeitete Version; das historische Original bleibt separat erhalten.",
+        "note_en": "AI-enhanced derivative; the historical original remains separately available. Fine details may be AI-interpreted and are not verified recovery.",
+        "note_he": "גרסה משופרת באמצעות בינה מלאכותית; התצלום המקורי נשמר בנפרד. פרטים עדינים עשויים להיות פרשנות של הבינה המלאכותית ואינם שחזור מאומת.",
+        "method": "AI enhancement"
+      },
+      "translations": {
+        "de": {
+          "title": "Historische Gruppenaufnahme",
+          "summary": "Nahaufnahme mehrerer Personen auf einer gepflasterten Fläche. Die Datei liegt im Familienordner „Hans Photos“.",
+          "note": "Ob Hans Beyth auf dieser Aufnahme zu sehen ist, wurde nicht bestätigt.",
+          "rights_note": "Lokaler Familienbestand; keine unabhängige Zuordnung der abgebildeten Personen."
+        },
+        "en": {
+          "title": "A historical group photograph",
+          "summary": "A close view of several people on a paved surface. The file is kept in the family folder ‘Hans Photos’.",
+          "note": "It has not been confirmed whether Hans Beyth appears in this photograph.",
+          "rights_note": "Local family collection; the identities of those pictured have not been independently verified.",
+          "source_name": "Family folder: Hans Photos"
+        },
+        "he": {
+          "title": "תצלום קבוצתי היסטורי",
+          "summary": "צילום מקרוב של כמה דמויות על משטח מרוצף. הקובץ נמצא בתיקייה המשפחתית Hans Photos.",
+          "note": "לא אושר שהנס בייט מופיע בתצלום זה.",
+          "rights_note": "אוסף משפחתי מקומי; זהות המצולמים לא אומתה באופן עצמאי.",
+          "source_name": "התיקייה המשפחתית Hans Photos"
+        }
+      }
+    },
+    {
+      "id": "local-hans-folder-foto3",
+      "kind": "photo",
+      "title_de": "Gespräch an einem Schreibtisch",
+      "summary_de": "Zwei Personen sitzen sich an einem Schreibtisch gegenüber. Die Datei liegt im Familienordner „Hans Photos“.",
+      "original_title": "foto3.jpg",
+      "image_url": "assets/8cd5db9184e7e56d.jpg",
+      "source_name": "Familienordner Hans Photos",
+      "source_url": null,
+      "date_label": null,
+      "provenance": "source_caption",
+      "note_de": "Ob Hans Beyth auf dieser Aufnahme zu sehen ist, wurde nicht bestätigt.",
+      "rights_note_de": "Lokaler Familienbestand; keine unabhängige Zuordnung der abgebildeten Personen.",
+      "origin": "local",
+      "original_source_url": null,
+      "local_asset": true,
+      "local_file_url": null,
+      "local_readable": false,
+      "available_local": true,
+      "enhancement": {
+        "image_url": "assets/ebcbcb414ffdf077.png",
+        "original_width": 860,
+        "original_height": 523,
+        "enhanced_width": 1610,
+        "enhanced_height": 977,
+        "note_de": "KI-bearbeitete Version; das historische Original bleibt separat erhalten.",
+        "note_en": "AI-enhanced derivative; the historical original remains separately available. Fine details may be AI-interpreted and are not verified recovery.",
+        "note_he": "גרסה משופרת באמצעות בינה מלאכותית; התצלום המקורי נשמר בנפרד. פרטים עדינים עשויים להיות פרשנות של הבינה המלאכותית ואינם שחזור מאומת.",
+        "method": "AI enhancement"
+      },
+      "translations": {
+        "de": {
+          "title": "Gespräch an einem Schreibtisch",
+          "summary": "Zwei Personen sitzen sich an einem Schreibtisch gegenüber. Die Datei liegt im Familienordner „Hans Photos“.",
+          "note": "Ob Hans Beyth auf dieser Aufnahme zu sehen ist, wurde nicht bestätigt.",
+          "rights_note": "Lokaler Familienbestand; keine unabhängige Zuordnung der abgebildeten Personen."
+        },
+        "en": {
+          "title": "A conversation at a desk",
+          "summary": "Two people sit opposite each other at a desk. The file is kept in the family folder ‘Hans Photos’.",
+          "note": "It has not been confirmed whether Hans Beyth appears in this photograph.",
+          "rights_note": "Local family collection; the identities of those pictured have not been independently verified.",
+          "source_name": "Family folder: Hans Photos"
+        },
+        "he": {
+          "title": "שיחה ליד שולחן כתיבה",
+          "summary": "שתי דמויות יושבות זו מול זו ליד שולחן כתיבה. הקובץ נמצא בתיקייה המשפחתית Hans Photos.",
+          "note": "לא אושר שהנס בייט מופיע בתצלום זה.",
+          "rights_note": "אוסף משפחתי מקומי; זהות המצולמים לא אומתה באופן עצמאי.",
+          "source_name": "התיקייה המשפחתית Hans Photos"
+        }
+      }
+    },
+    {
+      "id": "local-biography-bleicherode",
+      "kind": "document",
+      "title_de": "Hans Beyth aus Bleicherode",
+      "summary_de": "Deutschsprachiger biografischer Text über Hans Beyths Herkunft, seine jüdische Jugendarbeit und seinen Einsatz für die Jugend-Alijah nach der Emigration 1935.",
+      "original_title": "Beyth hans artikel 29.12.15 (2) Dani.docx",
+      "image_url": null,
+      "source_name": "Lokaler Familienbestand",
+      "source_url": null,
+      "date_label": null,
+      "provenance": "content_sample",
+      "rights_note_de": "Kurze Inhaltszusammenfassung einer lokalen Datei.",
+      "origin": "local",
+      "original_source_url": null,
+      "local_asset": false,
+      "local_file_url": "assets/family-document-0.html",
+      "local_readable": true,
+      "local_document": true,
+      "available_local": true,
+      "translations": {
+        "de": {
+          "title": "Hans Beyth aus Bleicherode",
+          "summary": "Deutschsprachiger biografischer Text über Hans Beyths Herkunft, seine jüdische Jugendarbeit und seinen Einsatz für die Jugend-Alijah nach der Emigration 1935.",
+          "rights_note": "Kurze Inhaltszusammenfassung einer lokalen Datei."
+        },
+        "en": {
+          "title": "Hans Beyth from Bleicherode",
+          "summary": "A German biographical text about Hans Beyth’s origins, his Jewish youth work and his work for Youth Aliyah after emigrating in 1935.",
+          "rights_note": "A brief summary of a local file’s contents.",
+          "source_name": "Local family collection"
+        },
+        "he": {
+          "title": "הנס בייט מבלייכרודה",
+          "summary": "טקסט ביוגרפי בגרמנית על מוצאו של הנס בייט, פעילותו בקרב נוער יהודי ועבודתו בעליית הנוער לאחר הגירתו ב־1935.",
+          "rights_note": "תקציר קצר של תוכן קובץ מקומי.",
+          "source_name": "האוסף המשפחתי המקומי"
+        }
+      }
+    },
+    {
+      "id": "local-unicef-transcription",
+      "kind": "document",
+      "title_de": "Text einer Würdigung von Hans Beyth",
+      "summary_de": "Eine englischsprachige Textdatei beschreibt eine posthume UNICEF-Würdigung für Hans Beyths Einsatz zur Rettung von Kindern. Die darin wiedergegebenen Angaben wurden nicht anhand eines UNICEF-Originals geprüft.",
+      "original_title": "UNICEF Hans Beyth.docx",
+      "image_url": null,
+      "source_name": "Lokaler Familienbestand",
+      "source_url": null,
+      "date_label": null,
+      "provenance": "content_sample",
+      "rights_note_de": "Kurze Inhaltszusammenfassung einer lokalen Datei.",
+      "origin": "local",
+      "original_source_url": null,
+      "local_asset": false,
+      "local_file_url": "assets/family-document-1.html",
+      "local_readable": true,
+      "local_document": true,
+      "available_local": true,
+      "translations": {
+        "de": {
+          "title": "Text einer Würdigung von Hans Beyth",
+          "summary": "Eine englischsprachige Textdatei beschreibt eine posthume UNICEF-Würdigung für Hans Beyths Einsatz zur Rettung von Kindern. Die darin wiedergegebenen Angaben wurden nicht anhand eines UNICEF-Originals geprüft.",
+          "rights_note": "Kurze Inhaltszusammenfassung einer lokalen Datei."
+        },
+        "en": {
+          "title": "A written tribute to Hans Beyth",
+          "summary": "An English text describes a posthumous UNICEF tribute to Hans Beyth for his work rescuing children. Its claims have not been checked against an original UNICEF record.",
+          "rights_note": "A brief summary of a local file’s contents.",
+          "source_name": "Local family collection"
+        },
+        "he": {
+          "title": "טקסט הוקרה להנס בייט",
+          "summary": "טקסט באנגלית מתאר הוקרה מטעם UNICEF להנס בייט לאחר מותו על פעילותו להצלת ילדים. הפרטים לא אומתו מול מסמך מקורי של UNICEF.",
+          "rights_note": "תקציר קצר של תוכן קובץ מקומי.",
+          "source_name": "האוסף המשפחתי המקומי"
+        }
+      }
+    },
+    {
+      "id": "jnf039747-hans-beyth-szold-galilee-1940",
+      "kind": "photo",
+      "title_de": "Hans Beyth und Henrietta Szold auf einer Reise in Galiläa",
+      "summary_de": "Die KKL/JNF-Bildbeschreibung benennt Beyth und Szold bei einer Reise in Galiläa. Die Aufnahme ist auf 1940 datiert; der Fotograf ist unbekannt.",
+      "source_name": "Wikimedia Commons / KKL-JNF Photo Archive",
+      "source_url": "https://commons.wikimedia.org/wiki/File:%D7%92%D7%9C%D7%99%D7%9C_-_%D7%98%D7%99%D7%95%D7%9C_%D7%A2%D7%9D_%D7%94%D7%A0%D7%A1_%D7%91%D7%99%D7%99%D7%98_%D7%95%D7%94%D7%92%D7%91%D7%A8%D7%AA_%D7%94%D7%A0%D7%A8%D7%99%D7%99%D7%98%D7%94_%D7%A1%D7%90%D7%9C%D7%93-JNF039747.jpeg",
+      "image_url": "assets/595b4fd40c2edb9e.jpeg",
+      "original_title": "גליל - טיול עם הנס בייט והגברת הנרייטה סאלד-JNF039747.jpeg",
+      "date_label": "1940",
+      "provenance": "archive_metadata",
+      "rights_note_de": "Commons führt das JNF-Fotoarchiv als Bestand und markiert die Datei als in Israel gemeinfrei; Fotograf und gesonderte Nutzungsangaben sind auf der Dateiseite vermerkt.",
+      "availability": "local",
+      "source_copy_type": "curated_summary_not_original",
+      "source_copy_available": true,
+      "origin": "web",
+      "original_source_url": "https://commons.wikimedia.org/wiki/File:%D7%92%D7%9C%D7%99%D7%9C_-_%D7%98%D7%99%D7%95%D7%9C_%D7%A2%D7%9D_%D7%94%D7%A0%D7%A1_%D7%91%D7%99%D7%99%D7%98_%D7%95%D7%94%D7%92%D7%91%D7%A8%D7%AA_%D7%94%D7%A0%D7%A8%D7%99%D7%99%D7%98%D7%94_%D7%A1%D7%90%D7%9C%D7%93-JNF039747.jpeg",
+      "local_asset": true,
+      "local_file_url": "assets/3f52e4dd424ba537.txt",
+      "local_readable": true,
+      "available_local": true,
+      "translations": {
+        "de": {
+          "title": "Hans Beyth und Henrietta Szold auf einer Reise in Galiläa",
+          "summary": "Die KKL/JNF-Bildbeschreibung benennt Beyth und Szold bei einer Reise in Galiläa. Die Aufnahme ist auf 1940 datiert; der Fotograf ist unbekannt.",
+          "rights_note": "Commons führt das JNF-Fotoarchiv als Bestand und markiert die Datei als in Israel gemeinfrei; Fotograf und gesonderte Nutzungsangaben sind auf der Dateiseite vermerkt."
+        },
+        "en": {
+          "title": "Hans Beyth and Henrietta Szold on a tour of Galilee",
+          "summary": "The KKL/JNF caption identifies Beyth and Szold on a tour of Galilee. The photograph is dated 1940; the photographer is unknown.",
+          "rights_note": "Commons names the JNF Photo Archive as the collection and marks the file as public domain in Israel; the file page records photographer and usage information."
+        },
+        "he": {
+          "title": "הנס בייט והנריאטה סאלד בטיול בגליל",
+          "summary": "הכיתוב של קק״ל מזהה את בייט וסאלד בטיול בגליל. התצלום מתוארך ל־1940; שם הצלם אינו ידוע.",
+          "rights_note": "ויקישיתוף מציין את ארכיון תצלומי קק״ל ומסמן את הקובץ כנחלת הכלל בישראל; פרטי הצלם ותנאי השימוש מופיעים בדף הקובץ."
+        }
+      }
+    },
+    {
+      "id": "gfh-tehran-children-atlit-1943",
+      "kind": "photo",
+      "title_de": "Szold und Beyth erwarten die Kinder aus Teheran in Atlit",
+      "summary_de": "Der GFH-Fotokatalog datiert die Aufnahme auf den 18. Februar 1943 in Atlit. Er identifiziert Hans Beyth links als Mitarbeiter von Henrietta Szold.",
+      "source_name": "Ghetto Fighters’ House Photo Archive / IDEA–ALM",
+      "source_url": "https://www.infocenters.co.il/gfh/notebook_ext.asp?book=60242&lang=eng&site=gfh",
+      "image_url": "assets/f734ce9d50bf59fd.jpg",
+      "original_title": "Henrietta Szold with a group of activists involved in the immigration of the \"Tehran children\" to Palestine.",
+      "date_label": "18. Februar 1943",
+      "provenance": "archive_metadata",
+      "rights_note_de": "Der aufgerufene Datensatz nennt keine eindeutige Nutzungslizenz; den Archivnachweis beibehalten und Nutzungsrechte beim Bestand prüfen.",
+      "note_de": "Ghetto Fighters’ House Photo Archive, Registriernummer 48256p. Als Schenker ist Laor David genannt; dies ist keine Fotografenangabe.",
+      "source_copy_available": true,
+      "metadata_access": "search_index_only",
+      "availability": "local",
+      "note_he": "ארכיון בית לוחמי הגטאות, מספר רישום 48256p. לאור דוד מצוין כתורם; אין זה ייחוס לצלם.",
+      "source_copy_type": "curated_summary_not_original",
+      "note_en": "Ghetto Fighters’ House Photo Archive, registry 48256p. Laor David is named as the donor; this is not a photographer credit.",
+      "origin": "web",
+      "original_source_url": "https://www.infocenters.co.il/gfh/notebook_ext.asp?book=60242&lang=eng&site=gfh",
+      "local_asset": true,
+      "local_file_url": "assets/1fd13299a5358f5e.txt",
+      "local_readable": true,
+      "available_local": true,
+      "translations": {
+        "de": {
+          "title": "Szold und Beyth erwarten die Kinder aus Teheran in Atlit",
+          "summary": "Der GFH-Fotokatalog datiert die Aufnahme auf den 18. Februar 1943 in Atlit. Er identifiziert Hans Beyth links als Mitarbeiter von Henrietta Szold.",
+          "note": "Ghetto Fighters’ House Photo Archive, Registriernummer 48256p. Als Schenker ist Laor David genannt; dies ist keine Fotografenangabe.",
+          "rights_note": "Der aufgerufene Datensatz nennt keine eindeutige Nutzungslizenz; den Archivnachweis beibehalten und Nutzungsrechte beim Bestand prüfen."
+        },
+        "en": {
+          "title": "Szold and Beyth await the children from Tehran in Atlit",
+          "summary": "The Ghetto Fighters’ House photo catalogue dates the photograph to 18 February 1943 in Atlit. It identifies Hans Beyth on the left as Henrietta Szold’s colleague.",
+          "note": "Ghetto Fighters’ House Photo Archive, registry 48256p. Laor David is named as the donor; this is not a photographer credit.",
+          "rights_note": "The record gives no clear reuse licence; retain the archive reference and check rights with the collection.",
+          "date_label": "18 February 1943"
+        },
+        "he": {
+          "title": "סאלד ובייט ממתינים לילדי טהרן בעתלית",
+          "summary": "קטלוג התצלומים של בית לוחמי הגטאות מתארך את התצלום ל־18 בפברואר 1943 בעתלית. הוא מזהה את הנס בייט משמאל כעמיתה של הנריאטה סאלד.",
+          "note": "ארכיון בית לוחמי הגטאות, מספר רישום 48256p. לאור דוד מצוין כתורם; אין זה ייחוס לצלם.",
+          "rights_note": "הרישום אינו מציין רישיון שימוש ברור; יש לשמור את ההפניה לארכיון ולבדוק את הזכויות עם בעל האוסף.",
+          "date_label": "18 בפברואר 1943"
+        }
+      }
+    },
+    {
+      "id": "ynet-bet-hashita-hans-beyth-1940",
+      "kind": "photo",
+      "title_de": "Hans Beyth zeigt das Modell von Bet Hashita",
+      "summary_de": "Die Bildunterschrift identifiziert Beyth links, wie er am Modell zeigt, während Arie Ben-Gurion erklärt, wo die tschechischen Jugendlichen untergebracht wurden. Die Aufnahme ist im Beitrag auf 1940 datiert.",
+      "source_name": "Ynet / Nadav Man, Bitmuna Lab",
+      "source_url": "https://www.ynet.co.il/articles/0%2C7340%2CL-4248597%2C00.html",
+      "image_url": "assets/2b5e62d81ad5a39b.jpg",
+      "original_title": "הנהלת עליית הנוער עם הצוות החינוכי בבית השיטה, 1940",
+      "date_label": "1940",
+      "provenance": "source_caption",
+      "rights_note_de": "Der Beitrag nennt Arie Ben-Gurion als Fotograf der meisten Aufnahmen, ordnet ihn diesem Foto aber nicht ausdrücklich einzeln zu; Rechte beim Verlag bzw. Rechteinhaber klären.",
+      "availability": "local",
+      "source_copy_available": true,
+      "source_copy_type": "curated_summary_not_original",
+      "origin": "web",
+      "original_source_url": "https://www.ynet.co.il/articles/0%2C7340%2CL-4248597%2C00.html",
+      "local_asset": true,
+      "local_file_url": "assets/49098ef97fb1f30d.txt",
+      "local_readable": true,
+      "available_local": true,
+      "translations": {
+        "de": {
+          "title": "Hans Beyth zeigt das Modell von Bet Hashita",
+          "summary": "Die Bildunterschrift identifiziert Beyth links, wie er am Modell zeigt, während Arie Ben-Gurion erklärt, wo die tschechischen Jugendlichen untergebracht wurden. Die Aufnahme ist im Beitrag auf 1940 datiert.",
+          "rights_note": "Der Beitrag nennt Arie Ben-Gurion als Fotograf der meisten Aufnahmen, ordnet ihn diesem Foto aber nicht ausdrücklich einzeln zu; Rechte beim Verlag bzw. Rechteinhaber klären."
+        },
+        "en": {
+          "title": "Beyth discusses the reception of Czech youths at Beit Hashita",
+          "summary": "A caption in the Ynet article names Hans Beyth in a discussion about receiving Czech youths at Beit Hashita. The article dates the scene to 1940.",
+          "rights_note": "The article names Arie Ben-Gurion as the photographer of most images but does not individually credit this photograph; check rights with the publisher or rights holder."
+        },
+        "he": {
+          "title": "בייט בדיון על קליטת נערים מצ׳כיה בבית השיטה",
+          "summary": "כיתוב במאמר ב־Ynet מזהה את הנס בייט בדיון על קליטת נערים מצ׳כיה בבית השיטה. המאמר מתארך את האירוע ל־1940.",
+          "rights_note": "המאמר מציין את אריה בן־גוריון כצלם רוב התמונות אך אינו מייחס לו תמונה זו באופן פרטני; יש לברר זכויות עם המוציא לאור או בעל הזכויות."
+        }
+      }
+    },
+    {
+      "id": "kfar-noar-dati-hans-beyth-portrait",
+      "kind": "photo",
+      "title_de": "Hans Beyth im Religiösen Jugenddorf",
+      "summary_de": "Das Archiv des Religiösen Jugenddorfs identifiziert Beyth auf dem Foto als Mitglied des Leitungsgremiums und führenden Mitarbeiter der Jugend-Alija.",
+      "source_name": "Kfar Noar Dati Archive",
+      "source_url": "https://kfarnoar.gilai.com/pages/archive/09_K_132.htm",
+      "image_url": "assets/42be6a85ceed41a5.jpg",
+      "original_title": "ד״ר הנס בייט בכפר הנוער הדתי",
+      "date_label": null,
+      "provenance": "source_caption",
+      "rights_note_de": "Die Seite nennt mehrere Bildsammlungen und private Sammler als Herkunft; eine eindeutige Einzelzuordnung oder Nutzungslizenz ist nicht ausgewiesen.",
+      "availability": "local",
+      "note_de": "Das Archivfoto ist lokal gespeichert. Die HTML-Seite 09_K_132.htm bettet die Bilddatei k_133.jpg ein; Bildunterschrift und Datensatz benennen Hans Beyth.",
+      "source_copy_type": "curated_summary_not_original",
+      "source_copy_available": true,
+      "origin": "web",
+      "original_source_url": "https://kfarnoar.gilai.com/pages/archive/09_K_132.htm",
+      "local_asset": true,
+      "local_file_url": "assets/662fe26002c91ff6.txt",
+      "local_readable": true,
+      "available_local": true,
+      "enhancement": {
+        "image_url": "assets/8be131e10587d7bf.png",
+        "original_width": 311,
+        "original_height": 450,
+        "enhanced_width": 1042,
+        "enhanced_height": 1509,
+        "note_de": "KI-bearbeitete Version; das historische Original bleibt separat erhalten.",
+        "note_en": "AI-enhanced derivative; the historical original remains available separately. Fine details may be interpreted by AI and are not verified recovery.",
+        "note_he": "גרסה משופרת באמצעות בינה מלאכותית; התצלום ההיסטורי המקורי נשמר בנפרד. פרטים עדינים עשויים להיות פרשנות של הבינה המלאכותית ואינם שחזור מאומת.",
+        "method": "AI enhancement"
+      },
+      "translations": {
+        "de": {
+          "title": "Hans Beyth im Religiösen Jugenddorf",
+          "summary": "Das Archiv des Religiösen Jugenddorfs identifiziert Beyth auf dem Foto als Mitglied des Leitungsgremiums und führenden Mitarbeiter der Jugend-Alija.",
+          "note": "Das Archivfoto ist lokal gespeichert. Die HTML-Seite 09_K_132.htm bettet die Bilddatei k_133.jpg ein; Bildunterschrift und Datensatz benennen Hans Beyth.",
+          "rights_note": "Die Seite nennt mehrere Bildsammlungen und private Sammler als Herkunft; eine eindeutige Einzelzuordnung oder Nutzungslizenz ist nicht ausgewiesen."
+        },
+        "en": {
+          "title": "Hans Beyth at the Religious Youth Village",
+          "summary": "The Religious Youth Village archive identifies Beyth in the photograph as a member of its leadership and a leading Youth Aliyah official.",
+          "note": "The archive photograph is saved locally. Page 09_K_132.htm embeds k_133.jpg; its caption and record identify Hans Beyth.",
+          "rights_note": "The page lists several photographic collections and private collectors; it gives no specific attribution or reuse licence for this photograph."
+        },
+        "he": {
+          "title": "הנס בייט בכפר הנוער הדתי",
+          "summary": "ארכיון כפר הנוער הדתי מזהה את בייט בתצלום כחבר הוועד המנהל וכאחד מבכירי עליית הנוער.",
+          "note": "התצלום הארכיוני נשמר מקומית. הדף 09_K_132.htm כולל את התמונה k_133.jpg; הכיתוב והרישום מזהים את הנס בייט.",
+          "rights_note": "הדף מציין כמה אוספי תצלומים ואספנים פרטיים; אין בו ייחוס פרטני או רישיון שימוש ברור לתצלום זה."
+        }
+      }
+    },
+    {
+      "id": "ig-dj-hans-beyth-biographical-note",
+      "kind": "article",
+      "title_de": "Hans Samuel Beyth und die Jugend-Alija",
+      "summary_de": "Eine wissenschaftliche Bild- und Jugendbewegungsgeschichte fasst Beyths Wirken in Deutschland und Palästina zusammen. Sie nennt Hameln, seine Zusammenarbeit mit Szold und seine Übernahme der Leitung 1945.",
+      "source_name": "Institut für die Geschichte der deutschen Juden",
+      "source_url": "https://www.igdj-hh.de/upload/gemeinschaft_in_bildern.pdf",
+      "image_url": null,
+      "original_title": "Anmerkungen zu S. 203–210",
+      "date_label": null,
+      "provenance": "source_caption",
+      "rights_note_de": "Wissenschaftliche Publikation; Zitate und Abbildungen mit vollständigem Quellenbeleg verwenden.",
+      "availability": "local",
+      "source_copy_available": true,
+      "source_copy_type": "curated_summary_not_original",
+      "origin": "web",
+      "original_source_url": "https://www.igdj-hh.de/upload/gemeinschaft_in_bildern.pdf",
+      "local_asset": false,
+      "local_file_url": "assets/1ca6abde90a28a69.pdf",
+      "local_readable": true,
+      "local_document": true,
+      "available_local": true,
+      "translations": {
+        "de": {
+          "title": "Hans Samuel Beyth und die Jugend-Alija",
+          "summary": "Eine wissenschaftliche Bild- und Jugendbewegungsgeschichte fasst Beyths Wirken in Deutschland und Palästina zusammen. Sie nennt Hameln, seine Zusammenarbeit mit Szold und seine Übernahme der Leitung 1945.",
+          "rights_note": "Wissenschaftliche Publikation; Zitate und Abbildungen mit vollständigem Quellenbeleg verwenden."
+        },
+        "en": {
+          "title": "Hans Samuel Beyth and Youth Aliyah",
+          "summary": "A scholarly history of photographs and youth movements summarizes Beyth’s work in Germany and Palestine. It mentions Hameln, his collaboration with Szold and his taking over the leadership in 1945.",
+          "rights_note": "Scholarly publication; use quotations and illustrations with full source attribution.",
+          "source_name": "Institute for the History of the German Jews"
+        },
+        "he": {
+          "title": "הנס שמואל בייט ועליית הנוער",
+          "summary": "מחקר על תצלומים ותנועות נוער מסכם את פעילות בייט בגרמניה ובארץ ישראל. הוא מזכיר את המלין, את שיתוף הפעולה עם סאלד ואת קבלת תפקיד ההנהלה ב־1945.",
+          "rights_note": "פרסום מחקרי; יש לציין מקור מלא בעת שימוש בציטוטים ובתמונות.",
+          "source_name": "המכון לתולדות יהודי גרמניה"
+        }
+      }
+    },
+    {
+      "id": "wzo-cza-hans-beyth-tehran-children-rehovot",
+      "kind": "photo",
+      "title_de": "Ankunft von Kindern aus Teheran in Rehovot",
+      "summary_de": "Der Tätigkeitsbericht der Zionistischen Weltorganisation führt die Abbildung als Teil der Hans-Beyth-Sammlung und beschriftet sie mit der Ankunft von Kindern aus Teheran in Rehovot. Die Abbildung belegt einen Bestand, liefert aber keine Einzeldaten zur Aufnahme.",
+      "source_name": "World Zionist Organization / Central Zionist Archives",
+      "source_url": "https://www.wzo.org.il/Upload/media/Files/%D7%93%D7%95%D7%97_%D7%94%D7%9E%D7%95%D7%A1%D7%93%D7%95%D7%AA_%D7%94%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%99%D7%9D_%D7%90%D7%A0%D7%92%D7%9C%D7%99%D7%AA__1_.pdf",
+      "image_url": "assets/221763d942839eee.png",
+      "original_title": "Hans Beyth collection, children from Teheran arrive at Rehovot",
+      "date_label": "Bericht 2020; Foto undatiert",
+      "provenance": "source_caption",
+      "rights_note_de": "Die PDF-Abbildung hat keine individuelle Lizenzangabe; Bildrechte und vollständige Archivsignatur beim Central Zionist Archives klären.",
+      "note_de": "Lokale JPEG/PNG-Abbildung ist aus PDF-Seite 29 (gedruckte Seitennummer; PDF-Seite 15) extrahiert und nur eine kleine Reproduktion im Tätigkeitsbericht, nicht das Originalnegativ oder ein Archivmaster.",
+      "availability": "local",
+      "source_copy_available": true,
+      "source_copy_type": "curated_summary_not_original",
+      "origin": "web",
+      "original_source_url": "https://www.wzo.org.il/Upload/media/Files/%D7%93%D7%95%D7%97_%D7%94%D7%9E%D7%95%D7%A1%D7%93%D7%95%D7%AA_%D7%94%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%99%D7%9D_%D7%90%D7%A0%D7%92%D7%9C%D7%99%D7%AA__1_.pdf",
+      "local_asset": true,
+      "local_file_url": "assets/eb3f2ea7c9d9f3fe.pdf",
+      "local_readable": true,
+      "local_document": true,
+      "available_local": true,
+      "translations": {
+        "de": {
+          "title": "Ankunft von Kindern aus Teheran in Rehovot",
+          "summary": "Der Tätigkeitsbericht der Zionistischen Weltorganisation führt die Abbildung als Teil der Hans-Beyth-Sammlung und beschriftet sie mit der Ankunft von Kindern aus Teheran in Rehovot. Die Abbildung belegt einen Bestand, liefert aber keine Einzeldaten zur Aufnahme.",
+          "note": "Lokale JPEG/PNG-Abbildung ist aus PDF-Seite 29 (gedruckte Seitennummer; PDF-Seite 15) extrahiert und nur eine kleine Reproduktion im Tätigkeitsbericht, nicht das Originalnegativ oder ein Archivmaster.",
+          "rights_note": "Die PDF-Abbildung hat keine individuelle Lizenzangabe; Bildrechte und vollständige Archivsignatur beim Central Zionist Archives klären."
+        },
+        "en": {
+          "title": "Children from Tehran arrive in Rehovot",
+          "summary": "The World Zionist Organization’s activity report identifies the illustration as part of the Hans Beyth collection and captions it as children from Tehran arriving in Rehovot. It documents a collection but gives no individual details about the photograph.",
+          "note": "The local image was extracted from printed page 29 (PDF page 15). It is a small reproduction in the activity report, rather than the original negative or an archive master.",
+          "rights_note": "The PDF illustration has no individual licence statement; check image rights and the full archive reference with the Central Zionist Archives.",
+          "date_label": "2020 report; photograph undated"
+        },
+        "he": {
+          "title": "הגעת ילדי טהרן לרחובות",
+          "summary": "דוח הפעילות של ההסתדרות הציונית העולמית מציג את התמונה כחלק מאוסף הנס בייט ומתאר אותה כהגעת ילדי טהרן לרחובות. הוא מצביע על קיומו של האוסף אך אינו נותן פרטים פרטניים על התצלום.",
+          "note": "התמונה המקומית חולצה מעמוד מודפס 29 (עמוד 15 בקובץ PDF). זהו העתק קטן בדוח הפעילות, ולא התשליל המקורי או קובץ האב הארכיוני.",
+          "rights_note": "לתמונה ב־PDF אין רישיון פרטני; יש לברר את זכויות התמונה ואת הסימול המלא בארכיון הציוני המרכזי.",
+          "date_label": "דוח מ־2020; התצלום אינו מתוארך"
+        }
+      }
+    },
+    {
+      "id": "yad-vashem-michael-vigodny-testimony-1946",
+      "kind": "document",
+      "title_de": "Zeitzeugenbericht über Ankunft und Weiterreise nach Magdiel",
+      "summary_de": "Michael Vigodny erinnert sich an seine Ankunft 1946 und daran, dass Hans Beyth ihn in seinem Wagen zu seinem Bruder nach Magdiel brachte. Der Bericht ist als einseitige hebräische Transkription bei Yad Vashem zugänglich.",
+      "source_name": "Yad Vashem – International School for Holocaust Studies",
+      "source_url": "https://wwv.yadvashem.org/odot_pdf/Microsoft%20Word%20-%20642.pdf",
+      "image_url": null,
+      "original_title": "עדותו של מיכאל ויגודני על ההגעה לישראל והמפגש עם אחיו, 1946",
+      "date_label": "Erinnerung an 1946; Transkript undatiert",
+      "provenance": "archive_metadata",
+      "rights_note_de": "Yad-Vashem-Transkript; Nutzungsbedingungen vor Weiterverwendung prüfen.",
+      "note_de": "Einseitige hebräische Texttranskription einer Zeugenaussage; keine Tonaufnahme im Datensatz.",
+      "availability": "local",
+      "source_copy_available": true,
+      "source_copy_type": "curated_summary_not_original",
+      "origin": "web",
+      "original_source_url": "https://wwv.yadvashem.org/odot_pdf/Microsoft%20Word%20-%20642.pdf",
+      "local_asset": false,
+      "local_file_url": "assets/099c94be617e0e83.pdf",
+      "local_readable": true,
+      "local_document": true,
+      "available_local": true,
+      "translations": {
+        "de": {
+          "title": "Zeitzeugenbericht über Ankunft und Weiterreise nach Magdiel",
+          "summary": "Michael Vigodny erinnert sich an seine Ankunft 1946 und daran, dass Hans Beyth ihn in seinem Wagen zu seinem Bruder nach Magdiel brachte. Der Bericht ist als einseitige hebräische Transkription bei Yad Vashem zugänglich.",
+          "note": "Einseitige hebräische Texttranskription einer Zeugenaussage; keine Tonaufnahme im Datensatz.",
+          "rights_note": "Yad-Vashem-Transkript; Nutzungsbedingungen vor Weiterverwendung prüfen."
+        },
+        "en": {
+          "title": "An eyewitness account of arrival and the journey to Magdiel",
+          "summary": "Michael Vigodny recalls arriving in 1946 and Hans Beyth driving him to his brother in Magdiel. Yad Vashem provides the account as a one-page Hebrew transcript.",
+          "note": "A one-page Hebrew transcript of testimony; the record contains no audio recording.",
+          "rights_note": "Yad Vashem transcript; check usage terms before reuse.",
+          "date_label": "Recollection of 1946; transcript undated"
+        },
+        "he": {
+          "title": "עדות על ההגעה והנסיעה למגדיאל",
+          "summary": "מיכאל ויגודני נזכר בהגעתו ב־1946 ובהנס בייט שהסיע אותו במכוניתו אל אחיו במגדיאל. יד ושם מספק את העדות כתמליל בן עמוד אחד בעברית.",
+          "note": "תמליל עדות בן עמוד אחד בעברית; הרישום אינו כולל הקלטת קול.",
+          "rights_note": "תמליל של יד ושם; יש לבדוק את תנאי השימוש לפני שימוש נוסף.",
+          "date_label": "זיכרון משנת 1946; התמליל אינו מתוארך"
+        }
+      }
+    }
+  ],
+  "pending_items": [
+    {
+      "id": "nli-youth-aliyah-exhibition-opening",
+      "kind": "photo",
+      "title_de": "Eröffnung einer Ausstellung der Jugend-Alija",
+      "summary_de": "Der NLI-Katalog betitelt das Foto ausdrücklich mit Henrietta Szold und Hans Beyth. Fotograf war Rudi Weissenstein; die Aufnahme ist undatiert.",
+      "source_name": "National Library of Israel / Pri-Or PhotoHouse",
+      "source_url": "https://www.nli.org.il/he/images/NNL_ARCHIVE_AL997000116510405171/NLI",
+      "image_url": null,
+      "original_title": "פתיחת תערוכת עלית הנוער (הנרייטה סולד והנס בייט)",
+      "date_label": null,
+      "provenance": "archive_metadata",
+      "rights_note_de": "Die NLI erlaubt laut Datensatz nur nichtkommerzielle Nutzung mit Namensnennung von Rudi Weissenstein, Pri-Or PhotoHouse und der Pritzker Family National Photography Collection; kommerzielle Nutzung erfordert Zustimmung.",
+      "availability": "pending",
+      "note_de": "Der NLI-Katalog nennt Rudi Weissenstein als Fotograf; die Bilddatei war über den öffentlichen Abruf nicht erreichbar. Dies bleibt ein Link-Hinweis ohne lokale Bilddatei.",
+      "source_copy_available": true,
+      "metadata_access": "search_index_only",
+      "source_copy_type": "curated_summary_not_original",
+      "origin": "web",
+      "original_source_url": "https://www.nli.org.il/he/images/NNL_ARCHIVE_AL997000116510405171/NLI",
+      "local_asset": false,
+      "local_file_url": "assets/012ae31b8b0d8819.txt",
+      "local_readable": true,
+      "available_local": false,
+      "translations": {
+        "de": {
+          "title": "Eröffnung einer Ausstellung der Jugend-Alija",
+          "summary": "Der NLI-Katalog betitelt das Foto ausdrücklich mit Henrietta Szold und Hans Beyth. Fotograf war Rudi Weissenstein; die Aufnahme ist undatiert.",
+          "note": "Der NLI-Katalog nennt Rudi Weissenstein als Fotograf; die Bilddatei war über den öffentlichen Abruf nicht erreichbar. Dies bleibt ein Link-Hinweis ohne lokale Bilddatei.",
+          "rights_note": "Die NLI erlaubt laut Datensatz nur nichtkommerzielle Nutzung mit Namensnennung von Rudi Weissenstein, Pri-Or PhotoHouse und der Pritzker Family National Photography Collection; kommerzielle Nutzung erfordert Zustimmung."
+        },
+        "en": {
+          "title": "Opening of a Youth Aliyah exhibition",
+          "summary": "The NLI catalogue explicitly names Henrietta Szold and Hans Beyth in the photograph’s title. The photographer was Rudi Weissenstein; the photograph is undated.",
+          "note": "The NLI catalogue credits Rudi Weissenstein; the image could not be retrieved through public access. The original photograph has not been saved locally.",
+          "rights_note": "The NLI record permits noncommercial use with attribution to Rudi Weissenstein, Pri-Or PhotoHouse and the Pritzker Family National Photography Collection; commercial use requires permission."
+        },
+        "he": {
+          "title": "פתיחת תערוכה של עליית הנוער",
+          "summary": "כותרת התצלום בקטלוג הספרייה הלאומית מציינת במפורש את הנריאטה סאלד והנס בייט. הצלם הוא רודי ויסנשטיין; התצלום אינו מתוארך.",
+          "note": "קטלוג הספרייה הלאומית מציין את רודי ויסנשטיין כצלם; התמונה לא הייתה נגישה להורדה ציבורית. התצלום המקורי לא נשמר מקומית.",
+          "rights_note": "לפי הרישום, הספרייה הלאומית מתירה שימוש לא מסחרי עם ייחוס לרודי ויסנשטיין, לצלמנייה פרי־אור ולאוסף התצלומים הלאומי על שם משפחת פריצקר; שימוש מסחרי דורש אישור."
+        }
+      }
+    },
+    {
+      "id": "nli-hans-beyth-person-archive",
+      "kind": "archive",
+      "title_de": "Hans Beyth: Personen- und Archivnachweise",
+      "summary_de": "Der NLI-Personendatensatz verknüpft Beyth mit Fotografien, Korrespondenz und Unterlagen zur frühen Jugend-Alija. Er bietet einen verlässlichen Einstieg in weitere Quellen.",
+      "source_name": "National Library of Israel",
+      "source_url": "https://www.nli.org.il/he/a-topic/987007499118605171",
+      "image_url": null,
+      "original_title": "בייט, הנס (1901-1947)",
+      "date_label": "1901–1947",
+      "provenance": "archive_metadata",
+      "rights_note_de": "Katalog- und Bestandsangaben; für Reproduktionen gelten die jeweiligen Einzel-Datensätze.",
+      "availability": "pending",
+      "source_copy_available": true,
+      "note_de": "Die NLI-Personenseite ist ein aggregierter Katalognachweis; einzelne Archivalien sind nicht als lokale Dateien enthalten.",
+      "metadata_access": "search_index_only",
+      "source_copy_type": "curated_summary_not_original",
+      "origin": "web",
+      "original_source_url": "https://www.nli.org.il/he/a-topic/987007499118605171",
+      "local_asset": false,
+      "local_file_url": "assets/f8d6d156302951ff.txt",
+      "local_readable": true,
+      "available_local": false,
+      "translations": {
+        "de": {
+          "title": "Hans Beyth: Personen- und Archivnachweise",
+          "summary": "Der NLI-Personendatensatz verknüpft Beyth mit Fotografien, Korrespondenz und Unterlagen zur frühen Jugend-Alija. Er bietet einen verlässlichen Einstieg in weitere Quellen.",
+          "note": "Die NLI-Personenseite ist ein aggregierter Katalognachweis; einzelne Archivalien sind nicht als lokale Dateien enthalten.",
+          "rights_note": "Katalog- und Bestandsangaben; für Reproduktionen gelten die jeweiligen Einzel-Datensätze."
+        },
+        "en": {
+          "title": "Hans Beyth: personal and archival records",
+          "summary": "The NLI person record links Beyth to photographs, correspondence and records of early Youth Aliyah. It provides a starting point for further sources.",
+          "note": "The NLI person page is an aggregated catalogue reference; its individual archival items are not included as local files.",
+          "rights_note": "Catalogue and collection information; reproductions are governed by each individual record."
+        },
+        "he": {
+          "title": "הנס בייט: רישומי אישיות ומקורות ארכיוניים",
+          "summary": "רישום האישיות בספרייה הלאומית מקשר את בייט לתצלומים, להתכתבות ולמסמכים מראשית עליית הנוער. הוא מספק נקודת מוצא למקורות נוספים.",
+          "note": "דף האישיות בספרייה הלאומית הוא רישום קטלוגי מרכז; הפריטים הארכיוניים הפרטניים אינם כלולים כקבצים מקומיים.",
+          "rights_note": "מידע קטלוגי ותיאורי אוספים; תנאי השעתוק נקבעים ברישום הפרטני של כל פריט."
+        }
+      }
+    },
+    {
+      "id": "nli-youth-aliyah-photo-bulletin-series",
+      "kind": "archive",
+      "title_de": "Fotos und Rundschreiben der Jugend-Alija",
+      "summary_de": "Diese NLI-Bestandsbeschreibung umfasst Fotos von Henrietta Szold und ihrem Mitarbeiter Hans Beyth bei Veranstaltungen und Besuchen in den 1940er-Jahren sowie Rundschreiben.",
+      "source_name": "National Library of Israel / Ein Harod Meuhad Archive",
+      "source_url": "https://www.nli.org.il/he/archives/NNL_ARCHIVE_AL997012278894205171/NLI",
+      "image_url": null,
+      "original_title": "תצלומים ועלונים של המחלקה לעליית ילדים ונוער",
+      "date_label": "סדרה 1943–1950; העלונים כוללים 1941–1942 ו-1950",
+      "provenance": "archive_metadata",
+      "rights_note_de": "Der Katalogeintrag beschreibt den Bestand; Nutzungsbedingungen sind für einzelne Digitalisate gesondert zu prüfen.",
+      "availability": "pending",
+      "source_copy_available": true,
+      "note_de": "Der Katalog beschreibt eine Fotoserie mit Aufnahmen von Szold und Beyth, stellt hier aber keine einzelne Bilddatei bereit.",
+      "metadata_access": "search_index_only",
+      "source_copy_type": "curated_summary_not_original",
+      "origin": "web",
+      "original_source_url": "https://www.nli.org.il/he/archives/NNL_ARCHIVE_AL997012278894205171/NLI",
+      "local_asset": false,
+      "local_file_url": "assets/0d4da1b8e67a05a1.txt",
+      "local_readable": true,
+      "available_local": false,
+      "translations": {
+        "de": {
+          "title": "Fotos und Rundschreiben der Jugend-Alija",
+          "summary": "Diese NLI-Bestandsbeschreibung umfasst Fotos von Henrietta Szold und ihrem Mitarbeiter Hans Beyth bei Veranstaltungen und Besuchen in den 1940er-Jahren sowie Rundschreiben.",
+          "note": "Der Katalog beschreibt eine Fotoserie mit Aufnahmen von Szold und Beyth, stellt hier aber keine einzelne Bilddatei bereit.",
+          "rights_note": "Der Katalogeintrag beschreibt den Bestand; Nutzungsbedingungen sind für einzelne Digitalisate gesondert zu prüfen.",
+          "date_label": "Serie 1943–1950; Rundschreiben aus 1941–1942 und 1950"
+        },
+        "en": {
+          "title": "Youth Aliyah photographs and circulars",
+          "summary": "This NLI collection description includes photographs of Henrietta Szold and her colleague Hans Beyth at events and visits during the 1940s, as well as circulars.",
+          "note": "The catalogue describes a photo series including Szold and Beyth but does not provide an individual image file here.",
+          "rights_note": "The catalogue entry describes the collection; check usage terms separately for each digitized item.",
+          "date_label": "Series 1943–1950; circulars include 1941–1942 and 1950"
+        },
+        "he": {
+          "title": "תצלומים ועלונים של עליית הנוער",
+          "summary": "תיאור האוסף בספרייה הלאומית כולל תצלומים של הנריאטה סאלד ועמיתה הנס בייט באירועים ובביקורים בשנות הארבעים, וכן עלונים.",
+          "note": "הקטלוג מתאר סדרת תצלומים של סאלד ובייט, אך אינו מספק כאן קובץ תצלום פרטני.",
+          "rights_note": "רישום הקטלוג מתאר את האוסף; יש לבדוק בנפרד את תנאי השימוש בכל פריט דיגיטלי.",
+          "date_label": "סדרה 1943–1950; העלונים כוללים את 1941–1942 ואת 1950"
+        }
+      }
+    },
+    {
+      "id": "nli-religious-youth-aliyah-correspondence",
+      "kind": "archive",
+      "title_de": "Korrespondenz zur religiösen Jugend-Alija",
+      "summary_de": "Der NLI-Katalog verzeichnet Briefe und Sitzungsunterlagen aus den Jahren 1937–1940, darunter Schreiben an Hans Beyth und Protokolle zu religiösen Jugendgruppen.",
+      "source_name": "National Library of Israel",
+      "source_url": "https://www.nli.org.il/he/archives/NNL_ARCHIVE_AL997009884044105171/NLI",
+      "image_url": null,
+      "original_title": "מכתבים, מסמכים (עלית הנוער הדתי)",
+      "date_label": "1937–1940",
+      "provenance": "archive_metadata",
+      "rights_note_de": "Archivbeschreibung ohne pauschale Reproduktionsfreigabe; Rechte und Bedingungen beim Einzelstück prüfen.",
+      "availability": "pending",
+      "source_copy_available": true,
+      "note_de": "Der NLI-Eintrag verweist auf Korrespondenz zur religiösen Jugend-Alija; ein digitalisiertes Schreiben war nicht öffentlich abrufbar.",
+      "metadata_access": "search_index_only",
+      "source_copy_type": "curated_summary_not_original",
+      "origin": "web",
+      "original_source_url": "https://www.nli.org.il/he/archives/NNL_ARCHIVE_AL997009884044105171/NLI",
+      "local_asset": false,
+      "local_file_url": "assets/7f1c534eed3bd4e8.txt",
+      "local_readable": true,
+      "available_local": false,
+      "translations": {
+        "de": {
+          "title": "Korrespondenz zur religiösen Jugend-Alija",
+          "summary": "Der NLI-Katalog verzeichnet Briefe und Sitzungsunterlagen aus den Jahren 1937–1940, darunter Schreiben an Hans Beyth und Protokolle zu religiösen Jugendgruppen.",
+          "note": "Der NLI-Eintrag verweist auf Korrespondenz zur religiösen Jugend-Alija; ein digitalisiertes Schreiben war nicht öffentlich abrufbar.",
+          "rights_note": "Archivbeschreibung ohne pauschale Reproduktionsfreigabe; Rechte und Bedingungen beim Einzelstück prüfen."
+        },
+        "en": {
+          "title": "Correspondence about religious Youth Aliyah",
+          "summary": "The NLI catalogue records letters and meeting papers from 1937–1940, including letters to Hans Beyth and minutes concerning religious youth groups.",
+          "note": "The NLI entry refers to correspondence about religious Youth Aliyah; a digitized letter was not publicly available.",
+          "rights_note": "An archive description without general reproduction permission; check rights and terms for each item."
+        },
+        "he": {
+          "title": "התכתבות על עליית הנוער הדתית",
+          "summary": "קטלוג הספרייה הלאומית מתאר מכתבים ומסמכי ישיבות מהשנים 1937–1940, ובהם מכתבים להנס בייט ופרוטוקולים העוסקים בקבוצות נוער דתיות.",
+          "note": "הרישום בספרייה הלאומית מפנה להתכתבות על עליית הנוער הדתית; מכתב סרוק לא היה זמין לציבור.",
+          "rights_note": "תיאור ארכיוני ללא אישור גורף לשעתוק; יש לבדוק את הזכויות והתנאים לכל פריט."
+        }
+      }
+    },
+    {
+      "id": "nli-youth-aliyah-intake-1946-1951",
+      "kind": "archive",
+      "title_de": "Akten zur Jugend-Alija, 1946–1951",
+      "summary_de": "Die NLI-Bestandsbeschreibung erwähnt einen Empfang einer Jugend-Alija-Gruppe am 10. August 1947 und nennt Hans Beyth unter den Anwesenden.",
+      "source_name": "National Library of Israel",
+      "source_url": "https://www.nli.org.il/he/archives/NNL_ARCHIVE_AL997012608790005171/NLI",
+      "image_url": null,
+      "original_title": "עלית הנוער (1946-1951)",
+      "date_label": "1946–1951",
+      "provenance": "archive_metadata",
+      "rights_note_de": "Archivbeschreibung; Rechte einzelner Dokumente und Fotos sind gesondert zu prüfen.",
+      "availability": "pending",
+      "source_copy_available": true,
+      "note_de": "Der NLI-Eintrag ist ein Findbuchhinweis zu Unterlagen von 1946–1951; die Originaldokumente sind nicht als lokale Digitalisate verfügbar.",
+      "metadata_access": "search_index_only",
+      "source_copy_type": "curated_summary_not_original",
+      "origin": "web",
+      "original_source_url": "https://www.nli.org.il/he/archives/NNL_ARCHIVE_AL997012608790005171/NLI",
+      "local_asset": false,
+      "local_file_url": "assets/7e2269449cdfcf93.txt",
+      "local_readable": true,
+      "available_local": false,
+      "translations": {
+        "de": {
+          "title": "Akten zur Jugend-Alija, 1946–1951",
+          "summary": "Die NLI-Bestandsbeschreibung erwähnt einen Empfang einer Jugend-Alija-Gruppe am 10. August 1947 und nennt Hans Beyth unter den Anwesenden.",
+          "note": "Der NLI-Eintrag ist ein Findbuchhinweis zu Unterlagen von 1946–1951; die Originaldokumente sind nicht als lokale Digitalisate verfügbar.",
+          "rights_note": "Archivbeschreibung; Rechte einzelner Dokumente und Fotos sind gesondert zu prüfen."
+        },
+        "en": {
+          "title": "Youth Aliyah files, 1946–1951",
+          "summary": "The NLI collection description mentions a reception for a Youth Aliyah group on 10 August 1947 and names Hans Beyth among those present.",
+          "note": "The NLI entry is a finding-aid reference to records from 1946–1951; the original documents are not available as local digitized files.",
+          "rights_note": "Archive description; check rights for individual documents and photographs separately."
+        },
+        "he": {
+          "title": "תיקי עליית הנוער, 1946–1951",
+          "summary": "תיאור האוסף בספרייה הלאומית מזכיר קבלת פנים לקבוצת עליית הנוער ב־10 באוגוסט 1947 ומציין את הנס בייט בין הנוכחים.",
+          "note": "הרישום בספרייה הלאומית הוא הפניה למסמכים מהשנים 1946–1951; המסמכים המקוריים אינם זמינים כאן כקבצים סרוקים מקומיים.",
+          "rights_note": "תיאור ארכיוני; יש לבדוק בנפרד את זכויות המסמכים והתצלומים הפרטניים."
+        }
+      }
+    },
+    {
+      "id": "bac-lac-hans-beyth-correspondence-1939-1944",
+      "kind": "archive",
+      "title_de": "Korrespondenz mit Hans Beyth zur Jugend-Alija",
+      "summary_de": "Library and Archives Canada verzeichnet eine Akte mit Korrespondenz zwischen 1939 und 1944 im Bestand der Canadian Hadassah-WIZO. Das Material ist als englischsprachige Textquelle beschrieben.",
+      "source_name": "Library and Archives Canada",
+      "source_url": "https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=5862485&app=fonandcol&wbdisable=true",
+      "image_url": null,
+      "original_title": "Correspondence: Hans Beyth, Youth Aliyah Jerusalem, Palestine",
+      "date_label": "1939–1944",
+      "provenance": "archive_metadata",
+      "rights_note_de": "Der Katalog beschreibt Archivmaterial, nicht eine öffentliche Reproduktionslizenz; Nutzungsbedingungen bei LAC beachten.",
+      "availability": "pending",
+      "source_copy_available": true,
+      "note_de": "Library and Archives Canada verzeichnet Korrespondenz aus den Jahren 1939–1944; der Datensatz nennt eingeschränkte Einsicht und bietet hier kein Digitalisat.",
+      "source_copy_type": "curated_summary_not_original",
+      "origin": "web",
+      "original_source_url": "https://recherche-collection-search.bac-lac.gc.ca/eng/home/record?IdNumber=5862485&app=fonandcol&wbdisable=true",
+      "local_asset": false,
+      "local_file_url": "assets/84051e2ea9946e35.txt",
+      "local_readable": true,
+      "available_local": false,
+      "translations": {
+        "de": {
+          "title": "Korrespondenz mit Hans Beyth zur Jugend-Alija",
+          "summary": "Library and Archives Canada verzeichnet eine Akte mit Korrespondenz zwischen 1939 und 1944 im Bestand der Canadian Hadassah-WIZO. Das Material ist als englischsprachige Textquelle beschrieben.",
+          "note": "Library and Archives Canada verzeichnet Korrespondenz aus den Jahren 1939–1944; der Datensatz nennt eingeschränkte Einsicht und bietet hier kein Digitalisat.",
+          "rights_note": "Der Katalog beschreibt Archivmaterial, nicht eine öffentliche Reproduktionslizenz; Nutzungsbedingungen bei LAC beachten."
+        },
+        "en": {
+          "title": "Correspondence with Hans Beyth about Youth Aliyah",
+          "summary": "Library and Archives Canada lists a correspondence file from 1939–1944 in the Canadian Hadassah-WIZO collection. The material is described as English-language text.",
+          "note": "Library and Archives Canada records correspondence from 1939–1944. The record specifies restricted access and provides no digitized file here.",
+          "rights_note": "The catalogue describes archive material and does not grant a public reproduction licence; follow LAC’s usage terms."
+        },
+        "he": {
+          "title": "התכתבות עם הנס בייט על עליית הנוער",
+          "summary": "ספריית וארכיון קנדה מתארים תיק התכתבות מהשנים 1939–1944 באוסף הדסה־ויצו הקנדית. החומר מתואר כמקור טקסטואלי באנגלית.",
+          "note": "ספריית וארכיון קנדה מתארים התכתבות מהשנים 1939–1944. הרישום מציין גישה מוגבלת ואינו מספק כאן קובץ סרוק.",
+          "rights_note": "הקטלוג מתאר חומר ארכיוני ואינו מעניק רישיון ציבורי לשעתוק; יש לפעול לפי תנאי השימוש של ספריית וארכיון קנדה."
+        }
+      }
+    },
+    {
+      "id": "nli-hans-beyth-biography-book",
+      "kind": "document",
+      "title_de": "Hans (Shmuel) Beyth: ein Leben für die Jugend-Alija",
+      "summary_de": "Der NLI-Katalog beschreibt Ruth Beyth-Maroms Biografie ihres Vaters anhand der von der Familie bewahrten Dokumente, Briefe und Fotos. Der Schwerpunkt liegt auf Beyths Arbeit für die Jugend-Alija.",
+      "source_name": "National Library of Israel",
+      "source_url": "https://www.nli.org.il/he/books/NNL_ALEPH990052676420205171/NLI",
+      "image_url": null,
+      "original_title": "הנס (שמואל) בייט : איש עליית הנוער 1901 - 1947",
+      "date_label": "1901–1947",
+      "provenance": "archive_metadata",
+      "rights_note_de": "Der NLI-Katalog weist auf mögliche Urheberrechte hin und untersagt Vervielfältigung ohne Zustimmung der Rechteinhaber.",
+      "availability": "pending",
+      "source_copy_available": true,
+      "note_de": "Der NLI-Datensatz ist ein bibliografischer Nachweis; ein frei zugängliches Digitalisat des Buches wurde nicht gefunden.",
+      "metadata_access": "search_index_only",
+      "source_copy_type": "curated_summary_not_original",
+      "origin": "web",
+      "original_source_url": "https://www.nli.org.il/he/books/NNL_ALEPH990052676420205171/NLI",
+      "local_asset": false,
+      "local_file_url": "assets/6c0652c9a607cf33.txt",
+      "local_readable": true,
+      "available_local": false,
+      "translations": {
+        "de": {
+          "title": "Hans (Shmuel) Beyth: ein Leben für die Jugend-Alija",
+          "summary": "Der NLI-Katalog beschreibt Ruth Beyth-Maroms Biografie ihres Vaters anhand der von der Familie bewahrten Dokumente, Briefe und Fotos. Der Schwerpunkt liegt auf Beyths Arbeit für die Jugend-Alija.",
+          "note": "Der NLI-Datensatz ist ein bibliografischer Nachweis; ein frei zugängliches Digitalisat des Buches wurde nicht gefunden.",
+          "rights_note": "Der NLI-Katalog weist auf mögliche Urheberrechte hin und untersagt Vervielfältigung ohne Zustimmung der Rechteinhaber."
+        },
+        "en": {
+          "title": "Hans (Shmuel) Beyth: a life devoted to Youth Aliyah",
+          "summary": "The NLI catalogue describes Ruth Beyth-Marom’s biography of her father, based on documents, letters and photographs preserved by the family. It focuses on Beyth’s work for Youth Aliyah.",
+          "note": "The NLI record is a bibliographic reference; no freely accessible digital copy of the book was found.",
+          "rights_note": "The NLI catalogue notes possible copyright and prohibits reproduction without permission from the rights holders."
+        },
+        "he": {
+          "title": "הנס (שמואל) בייט: חיים למען עליית הנוער",
+          "summary": "קטלוג הספרייה הלאומית מתאר את הביוגרפיה שכתבה רות בייט־מרום על אביה, על סמך מסמכים, מכתבים ותצלומים ששמרה המשפחה. במרכזה עבודתו בעליית הנוער.",
+          "note": "הרישום בספרייה הלאומית הוא אסמכתה ביבליוגרפית; לא נמצא עותק דיגיטלי חופשי של הספר.",
+          "rights_note": "קטלוג הספרייה הלאומית מציין זכויות יוצרים אפשריות ואוסר העתקה ללא אישור בעלי הזכויות."
+        }
+      }
+    },
+    {
+      "id": "izkor-hans-beyth-memorial",
+      "kind": "archive",
+      "title_de": "Gedenkhain für Hans Beyth",
+      "summary_de": "Das israelische Verteidigungsministerium verzeichnet Beyths Gedenkort im Rabin-Park und bestätigt seine Tätigkeit an der Seite Henrietta Szolds in der Jugend-Alija.",
+      "source_name": "Yizkor / Israel Ministry of Defense",
+      "source_url": "https://www.izkor.gov.il/en_a8d812cd6e3f4932193634f4db80e9d3",
+      "image_url": null,
+      "original_title": "חורשה לזכר הנס בייט",
+      "date_label": "26. Dezember 1947",
+      "provenance": "archive_metadata",
+      "rights_note_de": "Staatlicher Gedenkeintrag; Rechte an der eingebetteten Gedenkstättenaufnahme sind nicht gesondert ausgewiesen.",
+      "availability": "pending",
+      "source_copy_type": "curated_summary_not_original",
+      "source_copy_available": true,
+      "origin": "web",
+      "original_source_url": "https://www.izkor.gov.il/en_a8d812cd6e3f4932193634f4db80e9d3",
+      "local_asset": false,
+      "local_file_url": "assets/3549616aa55a9147.txt",
+      "local_readable": true,
+      "available_local": false,
+      "translations": {
+        "de": {
+          "title": "Gedenkhain für Hans Beyth",
+          "summary": "Das israelische Verteidigungsministerium verzeichnet Beyths Gedenkort im Rabin-Park und bestätigt seine Tätigkeit an der Seite Henrietta Szolds in der Jugend-Alija.",
+          "rights_note": "Staatlicher Gedenkeintrag; Rechte an der eingebetteten Gedenkstättenaufnahme sind nicht gesondert ausgewiesen."
+        },
+        "en": {
+          "title": "A memorial grove for Hans Beyth",
+          "summary": "Israel’s Ministry of Defense records Beyth’s memorial site in Rabin Park and confirms his work alongside Henrietta Szold in Youth Aliyah.",
+          "rights_note": "An official memorial record; rights to its embedded photograph of the memorial are not specified separately.",
+          "date_label": "26 December 1947"
+        },
+        "he": {
+          "title": "חורשת הנצחה להנס בייט",
+          "summary": "משרד הביטחון מתעד את אתר ההנצחה לבייט בפארק רבין ומציין את עבודתו לצד הנריאטה סאלד בעליית הנוער.",
+          "rights_note": "רישום הנצחה ממלכתי; הזכויות בתצלום אתר ההנצחה המשולב בו אינן מצוינות בנפרד.",
+          "date_label": "26 בדצמבר 1947"
+        }
+      }
+    },
+    {
+      "id": "ynet-czech-youth-aliyah-history",
+      "kind": "article",
+      "title_de": "Die Rettung tschechischer Jugendlicher durch die Jugend-Alija",
+      "summary_de": "Der Beitrag rekonstruiert die Aufnahme einer Gruppe tschechischer Jugendlicher in Bet Hashita und Beit HaArava. Mehrere Bildunterschriften nennen Hans Beyth und dokumentieren Besuche der Leitung vor Ort.",
+      "source_name": "Ynet / Nadav Man",
+      "source_url": "https://www.ynet.co.il/articles/0%2C7340%2CL-4248597%2C00.html",
+      "image_url": null,
+      "original_title": "בורחים מהנאצים: הנרייטה סאלד והצלת ילדי צ'כיה",
+      "date_label": "29. Juni 2012; berichtet über 1939–1940",
+      "provenance": "source_caption",
+      "rights_note_de": "Der Artikel nennt Arie Ben-Gurion als Fotograf der meisten Bilder; Nutzungsrechte beim Verlag bzw. Rechteinhaber klären.",
+      "availability": "pending",
+      "source_copy_available": true,
+      "note_de": "Die Bilddatei Nr. 3 ist lokal gespeichert; die vollständige Artikelseite konnte wegen einer Zugriffs-/Bot-Sperre nicht als lokale Textkopie gesichert werden.",
+      "source_copy_type": "curated_summary_not_original",
+      "origin": "web",
+      "original_source_url": "https://www.ynet.co.il/articles/0%2C7340%2CL-4248597%2C00.html",
+      "local_asset": false,
+      "local_file_url": "assets/aa2cbc8d61b9bd35.txt",
+      "local_readable": true,
+      "available_local": false,
+      "translations": {
+        "de": {
+          "title": "Die Rettung tschechischer Jugendlicher durch die Jugend-Alija",
+          "summary": "Der Beitrag rekonstruiert die Aufnahme einer Gruppe tschechischer Jugendlicher in Bet Hashita und Beit HaArava. Mehrere Bildunterschriften nennen Hans Beyth und dokumentieren Besuche der Leitung vor Ort.",
+          "note": "Die Bilddatei Nr. 3 ist lokal gespeichert; die vollständige Artikelseite konnte wegen einer Zugriffs-/Bot-Sperre nicht als lokale Textkopie gesichert werden.",
+          "rights_note": "Der Artikel nennt Arie Ben-Gurion als Fotograf der meisten Bilder; Nutzungsrechte beim Verlag bzw. Rechteinhaber klären."
+        },
+        "en": {
+          "summary": "The article reconstructs the reception of Czech youths at Beit Hashita and Beit HaArava. Several captions name Hans Beyth and document visits by the leadership.",
+          "title": "The rescue of Czech youths through Youth Aliyah",
+          "rights_note": "The article credits Arie Ben-Gurion for most photographs; clarify usage rights with the publisher or rights holder.",
+          "note": "Image no. 3 is saved locally. Access restrictions prevented saving the full article as a local text copy.",
+          "date_label": "29 June 2012; describes 1939–1940"
+        },
+        "he": {
+          "summary": "המאמר מתאר את קליטת קבוצת הנערים מצ׳כיה בבית השיטה ובבית הערבה. כמה כיתובים מזכירים את הנס בייט ומתעדים ביקורים של ההנהלה במקום.",
+          "title": "הצלת נערים מצ׳כיה באמצעות עליית הנוער",
+          "rights_note": "המאמר מציין את אריה בן־גוריון כצלם של רוב התמונות; יש לברר זכויות שימוש עם המוציא לאור או בעל הזכויות.",
+          "note": "תמונה מספר 3 נשמרה מקומית. מגבלות גישה מנעו שמירת עותק טקסט מקומי של המאמר המלא.",
+          "date_label": "29 ביוני 2012; מתאר את 1939–1940"
+        }
+      }
+    },
+    {
+      "id": "news1-hans-beyth-archive-lead",
+      "kind": "article",
+      "title_de": "Hinweis auf das Hans-Beyth-Archiv und seine Jugend-Alija-Fotos",
+      "summary_de": "Der Beitrag berichtet, dass das Central Zionist Archives Beyths persönliches Archiv und eine von seinen Kindern übergebene Fotosammlung zu seinen Besuchen bei Jugend-Alija-Gruppen verwahrt. Das ist ein Recherchehinweis auf weitere Primärquellen.",
+      "source_name": "News1 / Eli Alon",
+      "source_url": "https://www.news1.co.il/Archive/0026-D-161094-00.html",
+      "image_url": null,
+      "original_title": "מנהל \"עלית הנוער\" שנרצח ב-1947",
+      "date_label": "21. Juni 2023",
+      "provenance": "source_caption",
+      "rights_note_de": "Sekundärbeitrag; für Abbildungen und Archivmaterial die jeweiligen Originalbestände zitieren.",
+      "availability": "pending",
+      "source_copy_available": true,
+      "note_de": "Der Beitrag dient als Recherchehinweis auf eine dem Central Zionist Archives übergebene Fotosammlung; die Artikelseite war beim direkten Abruf gesperrt.",
+      "source_copy_type": "curated_summary_not_original",
+      "origin": "web",
+      "original_source_url": "https://www.news1.co.il/Archive/0026-D-161094-00.html",
+      "local_asset": false,
+      "local_file_url": "assets/a04477ae6f745928.txt",
+      "local_readable": true,
+      "available_local": false,
+      "translations": {
+        "de": {
+          "title": "Hinweis auf das Hans-Beyth-Archiv und seine Jugend-Alija-Fotos",
+          "summary": "Der Beitrag berichtet, dass das Central Zionist Archives Beyths persönliches Archiv und eine von seinen Kindern übergebene Fotosammlung zu seinen Besuchen bei Jugend-Alija-Gruppen verwahrt. Das ist ein Recherchehinweis auf weitere Primärquellen.",
+          "note": "Der Beitrag dient als Recherchehinweis auf eine dem Central Zionist Archives übergebene Fotosammlung; die Artikelseite war beim direkten Abruf gesperrt.",
+          "rights_note": "Sekundärbeitrag; für Abbildungen und Archivmaterial die jeweiligen Originalbestände zitieren."
+        },
+        "en": {
+          "title": "A lead to the Hans Beyth archive and his Youth Aliyah photographs",
+          "summary": "The article reports that the Central Zionist Archives holds Beyth’s personal archive and photographs donated by his children of visits to Youth Aliyah groups. It is a research lead to further primary sources.",
+          "note": "The article is a lead to a photograph collection donated to the Central Zionist Archives; the article page was blocked during direct retrieval.",
+          "rights_note": "Secondary article; cite the original collections for illustrations and archive material.",
+          "date_label": "21 June 2023"
+        },
+        "he": {
+          "title": "כיוון למחקר בארכיון הנס בייט ובתצלומי עליית הנוער שלו",
+          "summary": "המאמר מדווח שהארכיון הציוני המרכזי שומר את ארכיונו האישי של בייט ואוסף תצלומים שמסרו ילדיו, מביקוריו בקבוצות עליית הנוער. זהו כיוון למחקר במקורות ראשוניים נוספים.",
+          "note": "המאמר מפנה לאוסף תצלומים שנמסר לארכיון הציוני המרכזי; דף המאמר נחסם בעת ניסיון ההורדה הישיר.",
+          "rights_note": "מאמר ממקור משני; יש לייחס תמונות וחומר ארכיוני לאוספים המקוריים.",
+          "date_label": "21 ביוני 2023"
+        }
+      }
+    },
+    {
+      "id": "filmportal-aufbruch-der-jugend-1936",
+      "kind": "video",
+      "title_de": "Aufbruch der Jugend",
+      "summary_de": "Der Filmportal-Datensatz führt Hans Shmuel Beyth und Henrietta Szold als Mitwirkende des stummen Kurz-Dokumentarfilms. Der Film wurde am 25. Mai 1936 in Berlin uraufgeführt.",
+      "source_name": "filmportal.de / Deutsches Filminstitut & Filmmuseum",
+      "source_url": "https://www.filmportal.de/en/movie/aufbruch-der-jugend_7e2d2e28e32b47b2b2c2d12d5d93ab28",
+      "image_url": null,
+      "original_title": "Aufbruch der Jugend",
+      "date_label": "1936; Uraufführung 25. Mai 1936",
+      "provenance": "archive_metadata",
+      "rights_note_de": "Katalogdatensatz; Filmrechte sind nicht ausgewiesen. Eine verlinkte vollständige Ansicht wird separat vom Steven Spielberg Jewish Film Archive angeboten.",
+      "availability": "pending",
+      "source_copy_type": "curated_summary_not_original",
+      "source_copy_available": true,
+      "note_de": "Die lokale Textkopie enthält Filmportal-Metadaten; eine zugängliche Filmdatei selbst wurde nicht gefunden und ist nicht lokal gespeichert.",
+      "origin": "web",
+      "original_source_url": "https://www.filmportal.de/en/movie/aufbruch-der-jugend_7e2d2e28e32b47b2b2c2d12d5d93ab28",
+      "local_asset": false,
+      "local_file_url": "assets/9cdc2361828499e1.txt",
+      "local_readable": true,
+      "available_local": false,
+      "translations": {
+        "de": {
+          "title": "Aufbruch der Jugend",
+          "summary": "Der Filmportal-Datensatz führt Hans Shmuel Beyth und Henrietta Szold als Mitwirkende des stummen Kurz-Dokumentarfilms. Der Film wurde am 25. Mai 1936 in Berlin uraufgeführt.",
+          "note": "Die lokale Textkopie enthält Filmportal-Metadaten; eine zugängliche Filmdatei selbst wurde nicht gefunden und ist nicht lokal gespeichert.",
+          "rights_note": "Katalogdatensatz; Filmrechte sind nicht ausgewiesen. Eine verlinkte vollständige Ansicht wird separat vom Steven Spielberg Jewish Film Archive angeboten."
+        },
+        "en": {
+          "title": "Youth Sets Out (Aufbruch der Jugend)",
+          "summary": "Filmportal lists Hans Shmuel Beyth and Henrietta Szold as participants in this silent documentary short. It premiered in Berlin on 25 May 1936.",
+          "note": "The local text copy contains Filmportal metadata. An accessible film file was not found and the film itself is not saved locally.",
+          "rights_note": "Catalogue record; film rights are not specified. A linked full version is separately offered by the Steven Spielberg Jewish Film Archive.",
+          "date_label": "1936; premiere 25 May 1936"
+        },
+        "he": {
+          "title": "הנוער יוצא לדרך (Aufbruch der Jugend)",
+          "summary": "Filmportal מציין את הנס שמואל בייט והנריאטה סאלד בין המשתתפים בסרט התיעודי האילם הקצר. הקרנת הבכורה נערכה בברלין ב־25 במאי 1936.",
+          "note": "עותק הטקסט המקומי כולל מידע מ־Filmportal. לא נמצא קובץ סרט נגיש, והסרט עצמו אינו שמור מקומית.",
+          "rights_note": "רישום קטלוגי; זכויות הסרט אינן מפורטות. גרסה מלאה מקושרת מוצעת בנפרד בארכיון הסרטים היהודיים על שם סטיבן שפילברג.",
+          "date_label": "1936; בכורה ב־25 במאי 1936"
+        }
+      }
+    },
+    {
+      "id": "nli-hans-beyth-letter-clara-ein-harod",
+      "kind": "document",
+      "title_de": "Brief von Hans Beyth an das Sekretariat von Ein Harod",
+      "summary_de": "Die Nationalbibliothek beschreibt ein Schreiben, in dem Beyth über einen Brief von Clara berichtet, die zu ihren Kindern nach Palästina kommen möchte. Der Katalogbeitrag sagt, das Original liege im Archiv Ein Harod.",
+      "source_name": "National Library of Israel Blog / Ein Harod Archive",
+      "source_url": "https://blog.nli.org.il/en/hoi_tehran_children_rescue/",
+      "image_url": null,
+      "original_title": "“She requests to come to the Land of Israel to be with her children”, Hans Beyth’s letter to the secretariat of Ein Harod reporting on his correspondence with Clara.",
+      "date_label": null,
+      "provenance": "source_caption",
+      "rights_note_de": "Der Blog zeigt eine Archivabbildung, nennt aber keine spezifische Lizenz für deren Wiederverwendung; Originalbestand Ein Harod Archive.",
+      "note_de": "Die NLI-Blogbeschreibung benennt einen Brief Beyths an das Sekretariat von Ein Harod; das Original liegt laut Beschreibung im Ein-Harod-Archiv. Eine lokale Bild- oder Dokumentdatei war nicht erreichbar.",
+      "availability": "pending",
+      "source_copy_available": true,
+      "metadata_access": "search_index_only",
+      "source_copy_type": "curated_summary_not_original",
+      "origin": "web",
+      "original_source_url": "https://blog.nli.org.il/en/hoi_tehran_children_rescue/",
+      "local_asset": false,
+      "local_file_url": "assets/307cb4e6ac47f9bb.txt",
+      "local_readable": true,
+      "available_local": false,
+      "translations": {
+        "de": {
+          "title": "Brief von Hans Beyth an das Sekretariat von Ein Harod",
+          "summary": "Die Nationalbibliothek beschreibt ein Schreiben, in dem Beyth über einen Brief von Clara berichtet, die zu ihren Kindern nach Palästina kommen möchte. Der Katalogbeitrag sagt, das Original liege im Archiv Ein Harod.",
+          "note": "Die NLI-Blogbeschreibung benennt einen Brief Beyths an das Sekretariat von Ein Harod; das Original liegt laut Beschreibung im Ein-Harod-Archiv. Eine lokale Bild- oder Dokumentdatei war nicht erreichbar.",
+          "rights_note": "Der Blog zeigt eine Archivabbildung, nennt aber keine spezifische Lizenz für deren Wiederverwendung; Originalbestand Ein Harod Archive."
+        },
+        "en": {
+          "title": "Hans Beyth’s letter to the secretariat of Ein Harod",
+          "summary": "The National Library describes a letter in which Beyth refers to a letter from Clara, who wishes to join her children in Palestine. The catalogue article states that the original is held in the Ein Harod archive.",
+          "note": "The NLI blog describes Beyth’s letter to the Ein Harod secretariat; the original is held in the Ein Harod archive. No local image or document file could be retrieved.",
+          "rights_note": "The blog shows an archive illustration without a specific reuse licence; the original collection is the Ein Harod Archive."
+        },
+        "he": {
+          "title": "מכתב מהנס בייט למזכירות עין חרוד",
+          "summary": "הספרייה הלאומית מתארת מכתב שבו בייט מדווח על מכתב מקלרה, המבקשת להצטרף לילדיה בארץ ישראל. לפי המאמר, המקור נמצא בארכיון עין חרוד.",
+          "note": "בלוג הספרייה הלאומית מתאר מכתב של בייט למזכירות עין חרוד; המקור נמצא בארכיון עין חרוד. לא ניתן היה להוריד קובץ מקומי של התמונה או המסמך.",
+          "rights_note": "הבלוג מציג צילום ארכיוני ללא רישיון שימוש חוזר מסוים; המקור הוא ארכיון עין חרוד."
+        }
+      }
+    },
+    {
+      "id": "nli-tehran-children-ein-harod-archive-file",
+      "kind": "archive",
+      "title_de": "Unterlagen zu den Kindern aus Teheran in Ein Harod",
+      "summary_de": "Der NLI-Katalog verzeichnet Listen, Dokumente und Fotos zu den 1943 in Ein Harod aufgenommenen Kindern aus Teheran. Hans Beyth ist als Person erschlossen; der Bestand ist online nicht einsehbar.",
+      "source_name": "National Library of Israel / Ein Harod Archive",
+      "source_url": "https://www.nli.org.il/he/archives/NNL_ARCHIVE_AL997012278892905171/NLI",
+      "image_url": null,
+      "original_title": "תעודות, רשימות ותצלומים של ילדי טהרן בעין חרוד ורשימה של חברת נוער ה׳",
+      "date_label": "1942–1946",
+      "provenance": "archive_metadata",
+      "rights_note_de": "Archivkatalog; Zugang und Reproduktionsrechte sind beim Bestand zu klären.",
+      "note_de": "Der Ein-Harod-Bestand zu Kindern aus Teheran ist laut NLI-Katalog aus Datenschutzgründen online gesperrt; Originale bleiben beim Archiv.",
+      "availability": "pending",
+      "source_copy_available": true,
+      "metadata_access": "search_index_only",
+      "source_copy_type": "curated_summary_not_original",
+      "origin": "web",
+      "original_source_url": "https://www.nli.org.il/he/archives/NNL_ARCHIVE_AL997012278892905171/NLI",
+      "local_asset": false,
+      "local_file_url": "assets/21a5b159b7c2a9da.txt",
+      "local_readable": true,
+      "available_local": false,
+      "translations": {
+        "de": {
+          "title": "Unterlagen zu den Kindern aus Teheran in Ein Harod",
+          "summary": "Der NLI-Katalog verzeichnet Listen, Dokumente und Fotos zu den 1943 in Ein Harod aufgenommenen Kindern aus Teheran. Hans Beyth ist als Person erschlossen; der Bestand ist online nicht einsehbar.",
+          "note": "Der Ein-Harod-Bestand zu Kindern aus Teheran ist laut NLI-Katalog aus Datenschutzgründen online gesperrt; Originale bleiben beim Archiv.",
+          "rights_note": "Archivkatalog; Zugang und Reproduktionsrechte sind beim Bestand zu klären."
+        },
+        "en": {
+          "title": "Records of the children from Tehran at Ein Harod",
+          "summary": "The NLI catalogue records lists, documents and photographs of the children from Tehran received at Ein Harod in 1943. Hans Beyth is indexed as a person; the collection cannot be viewed online.",
+          "note": "According to the NLI catalogue, the Ein Harod collection about the Tehran children is restricted online for privacy reasons. The originals remain at the archive.",
+          "rights_note": "Archive catalogue; check access and reproduction rights with the collection."
+        },
+        "he": {
+          "title": "מסמכים על ילדי טהרן בעין חרוד",
+          "summary": "קטלוג הספרייה הלאומית מתאר רשימות, מסמכים ותצלומים של ילדי טהרן שנקלטו בעין חרוד ב־1943. הנס בייט מופיע במפתח האישים; האוסף אינו זמין לצפייה מקוונת.",
+          "note": "לפי קטלוג הספרייה הלאומית, הגישה המקוונת לאוסף עין חרוד על ילדי טהרן מוגבלת מטעמי פרטיות. המקורות נשארים בארכיון.",
+          "rights_note": "קטלוג ארכיוני; יש לברר עם בעל האוסף את הגישה ואת זכויות השעתוק."
+        }
+      }
+    },
+    {
+      "id": "jdc-belgium-aliyah-de-la-jeunesse-file",
+      "kind": "archive",
+      "title_de": "Akten zur Jugend-Alija in Belgien 1947–1948",
+      "summary_de": "Das Findbuch des JDC-Archivs verzeichnet in einer Belgien-Akte eine Notiz zu Hans Beyths Tod neben Berichten über Jugendheime und Kinderlisten. Der Katalog liefert einen konkreten Aktenhinweis, aber keine digitalisierte Abbildung.",
+      "source_name": "JDC Archives",
+      "source_url": "https://archives.jdc.org/our-collections/finding-aids/geneva-office/1945-1954/countries-and-regions-aden-china/",
+      "image_url": null,
+      "original_title": "Belgium Aliyah de la Jeunesse 1947-1948",
+      "date_label": "1947–1948",
+      "provenance": "archive_metadata",
+      "rights_note_de": "Findbuch; Einsicht und Reproduktionsrechte sind mit dem JDC-Archiv zu klären.",
+      "note_de": "Das JDC-Findbuch nennt eine Akte zur Jugend-Alija in Belgien mit einem Hinweis auf Beyths Tod; die Akte selbst liegt hier nicht als Digitalisat vor.",
+      "availability": "pending",
+      "source_copy_available": true,
+      "source_copy_type": "curated_summary_not_original",
+      "origin": "web",
+      "original_source_url": "https://archives.jdc.org/our-collections/finding-aids/geneva-office/1945-1954/countries-and-regions-aden-china/",
+      "local_asset": false,
+      "local_file_url": "assets/7ca8866a96959720.txt",
+      "local_readable": true,
+      "available_local": false,
+      "translations": {
+        "de": {
+          "title": "Akten zur Jugend-Alija in Belgien 1947–1948",
+          "summary": "Das Findbuch des JDC-Archivs verzeichnet in einer Belgien-Akte eine Notiz zu Hans Beyths Tod neben Berichten über Jugendheime und Kinderlisten. Der Katalog liefert einen konkreten Aktenhinweis, aber keine digitalisierte Abbildung.",
+          "note": "Das JDC-Findbuch nennt eine Akte zur Jugend-Alija in Belgien mit einem Hinweis auf Beyths Tod; die Akte selbst liegt hier nicht als Digitalisat vor.",
+          "rights_note": "Findbuch; Einsicht und Reproduktionsrechte sind mit dem JDC-Archiv zu klären."
+        },
+        "en": {
+          "title": "Youth Aliyah files from Belgium, 1947–1948",
+          "summary": "The JDC archive finding aid lists a note about Hans Beyth’s death in a Belgium file, alongside reports about youth homes and lists of children. It identifies a specific file but does not provide a digitized illustration.",
+          "note": "The JDC finding aid lists a Belgium Youth Aliyah file mentioning Beyth’s death; the file itself is not provided here as a digitized copy.",
+          "rights_note": "Finding aid; arrange access and reproduction rights with the JDC archive."
+        },
+        "he": {
+          "title": "תיקי עליית הנוער בבלגיה, 1947–1948",
+          "summary": "מדריך ארכיון הג׳וינט מציין בתיק העוסק בבלגיה ידיעה על מות הנס בייט, לצד דוחות על בתי נוער ורשימות ילדים. זהו הפניה לתיק מסוים, ללא תמונה דיגיטלית של המקור.",
+          "note": "מדריך ארכיון הג׳וינט מתאר תיק על עליית הנוער בבלגיה המזכיר את מות בייט; התיק עצמו אינו זמין כאן כעותק סרוק.",
+          "rights_note": "מדריך ארכיוני; יש לתאם גישה וזכויות שעתוק עם ארכיון הג׳וינט."
+        }
+      }
+    },
+    {
+      "id": "nli-hans-beyth-authority-page",
+      "kind": "archive",
+      "title_de": "Hans Beyth – Personen- und Archivübersicht",
+      "summary_de": "Die Personenübersicht der Nationalbibliothek bündelt mit Beyth verknüpfte Archivbestände und Fotografien. Sie führt unter anderem das Foto zur Eröffnung einer Jugend-Alija-Ausstellung mit Henrietta Szold auf.",
+      "source_name": "National Library of Israel",
+      "source_url": "https://www.nli.org.il/en/a-topic/987007499118605171",
+      "image_url": null,
+      "original_title": "Hans Beyth (1901-1947)",
+      "date_label": "1901–1947",
+      "provenance": "archive_metadata",
+      "rights_note_de": "Aggregierte Katalogseite; Nutzungsbedingungen gelten jeweils für den verknüpften Einzelbestand.",
+      "availability": "pending",
+      "source_copy_available": true,
+      "note_de": "Die NLI-Personenübersicht ist ein aggregierter Katalognachweis, kein eigenes digitalisiertes Dokument oder Foto.",
+      "metadata_access": "search_index_only",
+      "source_copy_type": "curated_summary_not_original",
+      "origin": "web",
+      "original_source_url": "https://www.nli.org.il/en/a-topic/987007499118605171",
+      "local_asset": false,
+      "local_file_url": "assets/90e5f406e20de72e.txt",
+      "local_readable": true,
+      "available_local": false,
+      "translations": {
+        "de": {
+          "title": "Hans Beyth – Personen- und Archivübersicht",
+          "summary": "Die Personenübersicht der Nationalbibliothek bündelt mit Beyth verknüpfte Archivbestände und Fotografien. Sie führt unter anderem das Foto zur Eröffnung einer Jugend-Alija-Ausstellung mit Henrietta Szold auf.",
+          "note": "Die NLI-Personenübersicht ist ein aggregierter Katalognachweis, kein eigenes digitalisiertes Dokument oder Foto.",
+          "rights_note": "Aggregierte Katalogseite; Nutzungsbedingungen gelten jeweils für den verknüpften Einzelbestand."
+        },
+        "en": {
+          "title": "Hans Beyth: an overview of personal and archival records",
+          "summary": "The National Library’s person overview brings together archive collections and photographs connected to Beyth. It includes the photograph of a Youth Aliyah exhibition opening with Henrietta Szold.",
+          "note": "The NLI person overview is an aggregated catalogue reference rather than a separate digitized document or photograph.",
+          "rights_note": "An aggregated catalogue page; usage terms apply separately to each linked collection."
+        },
+        "he": {
+          "title": "הנס בייט: סקירת אישיות ומקורות ארכיוניים",
+          "summary": "סקירת האישיות בספרייה הלאומית מרכזת אוספים ארכיוניים ותצלומים הקשורים לבייט. היא כוללת בין השאר תצלום מפתיחת תערוכת עליית הנוער עם הנריאטה סאלד.",
+          "note": "סקירת האישיות בספרייה הלאומית היא רישום קטלוגי מרכז, ולא מסמך או תצלום סרוק בפני עצמו.",
+          "rights_note": "דף קטלוג מרכז; תנאי השימוש חלים בנפרד על כל אוסף מקושר."
+        }
+      }
+    },
+    {
+      "id": "ben-gurion-diary-youth-aliyah-1944",
+      "kind": "document",
+      "title_de": "Tagebucheintrag zur Auswahl und Verteilung von Jugendlichen",
+      "summary_de": "Ein Tagebucheintrag David Ben-Gurions vom 13. Juli 1944 beschreibt Beyths Beteiligung an Befragung und Zuteilung von Jugendlichen aus mehreren Transporten. Er hielt fest, dass Beyth während einer Erkrankung Szolds zeitweise ihre Aufgabe übernahm.",
+      "source_name": "Ben-Gurion Archive, Ben-Gurion University of the Negev",
+      "source_url": "https://bengurionarchive.bgu.ac.il/node/12077",
+      "image_url": null,
+      "original_title": "יומנים > יומן - מלא 13/07/1944",
+      "date_label": "13. Juli 1944",
+      "provenance": "archive_metadata",
+      "rights_note_de": "Digitaler Archivdatensatz; die Seite weist auf das israelische Urheberrechtsgesetz hin.",
+      "note_de": "Tagebuchtext in hebräischer Transkription; der Datensatz ist direkt online lesbar.",
+      "availability": "pending",
+      "source_copy_type": "curated_summary_not_original",
+      "source_copy_available": true,
+      "origin": "web",
+      "original_source_url": "https://bengurionarchive.bgu.ac.il/node/12077",
+      "local_asset": false,
+      "local_file_url": "assets/8d8f6103c83a7726.txt",
+      "local_readable": true,
+      "available_local": false,
+      "translations": {
+        "de": {
+          "title": "Tagebucheintrag zur Auswahl und Verteilung von Jugendlichen",
+          "summary": "Ein Tagebucheintrag David Ben-Gurions vom 13. Juli 1944 beschreibt Beyths Beteiligung an Befragung und Zuteilung von Jugendlichen aus mehreren Transporten. Er hielt fest, dass Beyth während einer Erkrankung Szolds zeitweise ihre Aufgabe übernahm.",
+          "note": "Tagebuchtext in hebräischer Transkription; der Datensatz ist direkt online lesbar.",
+          "rights_note": "Digitaler Archivdatensatz; die Seite weist auf das israelische Urheberrechtsgesetz hin."
+        },
+        "en": {
+          "title": "A diary entry on interviewing and assigning young people",
+          "summary": "David Ben-Gurion’s diary entry of 13 July 1944 describes Beyth’s involvement in interviewing and assigning young people from several transports. It records that Beyth temporarily took over Szold’s duties during her illness.",
+          "note": "Diary text in Hebrew transcription; the record can be read directly online.",
+          "rights_note": "Digital archive record; the page refers to Israeli copyright law.",
+          "date_label": "13 July 1944"
+        },
+        "he": {
+          "title": "רישום ביומן על בחירת בני נוער ושיבוצם",
+          "summary": "רישום ביומנו של דוד בן־גוריון מ־13 ביולי 1944 מתאר את השתתפות בייט בתשאול ובשיבוץ בני נוער מכמה משלוחים. הוא מציין שבייט מילא זמנית את תפקידה של סאלד בזמן מחלתה.",
+          "note": "תמליל היומן בעברית; ניתן לקרוא את הרישום ישירות באתר.",
+          "rights_note": "רישום ארכיוני דיגיטלי; הדף מפנה לחוק זכויות היוצרים הישראלי.",
+          "date_label": "13 ביולי 1944"
+        }
+      }
+    },
+    {
+      "source_name": "Wikimedia Commons",
+      "kind": "archive",
+      "original_title": "Category:Hans Beyth",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:Hans_Beyth",
+      "id": "commons-hans-beyth-category",
+      "summary_de": "Diese Wikimedia-Commons-Kategorie sammelt historische Abbildungen zu Hans Beyth. Die einzelnen Bildseiten ergänzen Angaben zu Herkunft und Nutzungsrechten.",
+      "date_label": null,
+      "title_de": "Weitere Bilder von Hans Beyth",
+      "image_url": null,
+      "provenance": "archive_metadata",
+      "rights_note_de": "Die Kategorie verweist auf einzelne Bilddateien; Rechte und Quellenangaben sind jeweils auf der Dateiseite zu prüfen.",
+      "availability": "pending",
+      "source_copy_type": "curated_summary_not_original",
+      "source_copy_available": true,
+      "origin": "web",
+      "original_source_url": "https://commons.wikimedia.org/wiki/Category:Hans_Beyth",
+      "local_asset": false,
+      "local_file_url": "assets/c111f51e6eff0d08.txt",
+      "local_readable": true,
+      "available_local": false,
+      "translations": {
+        "de": {
+          "title": "Weitere Bilder von Hans Beyth",
+          "summary": "Diese Wikimedia-Commons-Kategorie sammelt historische Abbildungen zu Hans Beyth. Die einzelnen Bildseiten ergänzen Angaben zu Herkunft und Nutzungsrechten.",
+          "rights_note": "Die Kategorie verweist auf einzelne Bilddateien; Rechte und Quellenangaben sind jeweils auf der Dateiseite zu prüfen."
+        },
+        "en": {
+          "title": "More photographs of Hans Beyth",
+          "summary": "This Wikimedia Commons category collects historical images of Hans Beyth. Individual image pages add information about their origins and usage rights.",
+          "rights_note": "The category links to individual image files; check rights and sources on each file page."
+        },
+        "he": {
+          "title": "תצלומים נוספים של הנס בייט",
+          "summary": "קטגוריה זו בוויקישיתוף מרכזת תצלומים היסטוריים של הנס בייט. דפי התצלומים מוסיפים מידע על מקורם ועל זכויות השימוש.",
+          "rights_note": "הקטגוריה מפנה לקובצי תמונות פרטניים; יש לבדוק את הזכויות ואת המקורות בכל דף קובץ."
+        }
+      }
+    }
+  ],
+  "revision": "f86a9188eaa6ff4c",
+  "ui_revision": "f73f9e97692a3199",
+  "live": false,
+  "updated_at": "2026-09-30T16:58:31.748Z",
+  "published_at": "2026-09-30T16:58:31.960Z"
+}
