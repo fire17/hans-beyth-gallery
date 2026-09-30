@@ -20,6 +20,17 @@
       "local_is_summary": false,
       "local_readable": false,
       "available_local": true,
+      "enhancement": {
+        "image_url": "assets/41ea6741caf78a5b.png",
+        "original_width": 4460,
+        "original_height": 3340,
+        "enhanced_width": 1449,
+        "enhanced_height": 1085,
+        "note_de": "KI-bearbeitete Version; das historische Original bleibt separat erhalten.",
+        "note_en": "AI-enhanced derivative; the historical original remains separately available. Output has lower pixel dimensions than the original, and fine details are AI-interpreted, not verified recovery.",
+        "note_he": "גרסה משופרת באמצעות בינה מלאכותית; התצלום המקורי נשמר בנפרד. לגרסה זו פחות פיקסלים מהמקור, ופרטים עדינים הם פרשנות של הבינה המלאכותית ולא שחזור מאומת.",
+        "method": "AI enhancement"
+      },
       "translations": {
         "de": {
           "title": "Hans und Lotte Beyth",
@@ -173,6 +184,17 @@
       "local_is_summary": true,
       "local_readable": true,
       "available_local": true,
+      "enhancement": {
+        "image_url": "assets/e8c92ec7bac6f7d9.png",
+        "original_width": 484,
+        "original_height": 647,
+        "enhanced_width": 1085,
+        "enhanced_height": 1450,
+        "note_de": "KI-bearbeitete Version; das historische Original bleibt separat erhalten.",
+        "note_en": "AI-enhanced derivative; the historical original remains separately available. Fine details may be AI-interpreted, not recovered from verified source detail.",
+        "note_he": "גרסה משופרת באמצעות בינה מלאכותית; התצלום המקורי נשמר בנפרד. פרטים עדינים עשויים להיות פרשנות של הבינה המלאכותית ואינם שחזור מאומת.",
+        "method": "AI enhancement"
+      },
       "translations": {
         "de": {
           "title": "Porträt von Hans Beyth",
@@ -1648,9 +1670,9 @@
       }
     }
   ],
-  "revision": "b353a100a8568718",
-  "ui_revision": "ec5c3cde906fcd7d",
+  "revision": "0697239638f2dbf8",
+  "ui_revision": "aaee8d48ab7434b0",
   "live": false,
-  "updated_at": "2026-09-30T17:14:49.826Z",
-  "published_at": "2026-09-30T17:14:49.968Z"
+  "updated_at": "2026-09-30T17:21:05.034Z",
+  "published_at": "2026-09-30T17:21:05.218Z"
 }
