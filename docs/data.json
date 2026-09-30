@@ -881,7 +881,7 @@
       "provenance": "archive_metadata",
       "rights_note_de": "Die NLI erlaubt laut Datensatz nur nichtkommerzielle Nutzung mit Namensnennung von Rudi Weissenstein, Pri-Or PhotoHouse und der Pritzker Family National Photography Collection; kommerzielle Nutzung erfordert Zustimmung.",
       "availability": "pending",
-      "note_de": "Der NLI-Katalog nennt Rudi Weissenstein als Fotograf; die Bilddatei war über den öffentlichen Abruf nicht erreichbar. Dies bleibt ein Link-Hinweis ohne lokale Bilddatei.",
+      "note_de": "Der NLI-Eintrag nennt ein JPEG/ZIP-Downloadformular mit vorgeschalteter Bestätigung der Nutzungsbedingungen. Direkte Seitenabrufe liefern HTTP 403; eine stabile öffentliche IIIF-Bildkennung oder Pri-Or-Wiedergabe ließ sich nicht verifizieren. Daher wurde keine Bilddatei gespeichert und der Eintrag bleibt als Archivnachweis pending.",
       "source_copy_available": true,
       "metadata_access": "search_index_only",
       "source_copy_type": "curated_summary_not_original",
@@ -889,7 +889,7 @@
       "original_source_url": "https://www.nli.org.il/he/images/NNL_ARCHIVE_AL997000116510405171/NLI",
       "local_asset": false,
       "original_document_url": null,
-      "local_file_url": "assets/419cf24f650a5051.txt",
+      "local_file_url": "assets/8cdf05f6e496e496.txt",
       "local_is_summary": true,
       "local_readable": true,
       "available_local": false,
@@ -897,7 +897,7 @@
         "de": {
           "title": "Eröffnung einer Ausstellung der Jugend-Alija",
           "summary": "Der NLI-Katalog betitelt das Foto ausdrücklich mit Henrietta Szold und Hans Beyth. Fotograf war Rudi Weissenstein; die Aufnahme ist undatiert.",
-          "note": "Der NLI-Katalog nennt Rudi Weissenstein als Fotograf; die Bilddatei war über den öffentlichen Abruf nicht erreichbar. Dies bleibt ein Link-Hinweis ohne lokale Bilddatei.",
+          "note": "Der NLI-Eintrag nennt ein JPEG/ZIP-Downloadformular mit vorgeschalteter Bestätigung der Nutzungsbedingungen. Direkte Seitenabrufe liefern HTTP 403; eine stabile öffentliche IIIF-Bildkennung oder Pri-Or-Wiedergabe ließ sich nicht verifizieren. Daher wurde keine Bilddatei gespeichert und der Eintrag bleibt als Archivnachweis pending.",
           "rights_note": "Die NLI erlaubt laut Datensatz nur nichtkommerzielle Nutzung mit Namensnennung von Rudi Weissenstein, Pri-Or PhotoHouse und der Pritzker Family National Photography Collection; kommerzielle Nutzung erfordert Zustimmung."
         },
         "en": {
@@ -1648,9 +1648,9 @@
       }
     }
   ],
-  "revision": "9077adf952de8900",
+  "revision": "b353a100a8568718",
   "ui_revision": "ec5c3cde906fcd7d",
   "live": false,
-  "updated_at": "2026-09-30T17:08:37.390Z",
-  "published_at": "2026-09-30T17:08:37.720Z"
+  "updated_at": "2026-09-30T17:14:49.826Z",
+  "published_at": "2026-09-30T17:14:49.968Z"
 }
