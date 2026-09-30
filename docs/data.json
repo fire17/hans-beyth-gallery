@@ -17,6 +17,7 @@
       "local_asset": true,
       "original_document_url": null,
       "local_file_url": null,
+      "local_is_summary": false,
       "local_readable": false,
       "available_local": true,
       "translations": {
@@ -56,6 +57,7 @@
       "local_asset": true,
       "original_document_url": null,
       "local_file_url": null,
+      "local_is_summary": false,
       "local_readable": false,
       "available_local": true,
       "enhancement": {
@@ -109,6 +111,7 @@
       "local_asset": true,
       "original_document_url": null,
       "local_file_url": null,
+      "local_is_summary": false,
       "local_readable": false,
       "available_local": true,
       "enhancement": {
@@ -167,6 +170,7 @@
       "local_asset": true,
       "original_document_url": null,
       "local_file_url": "assets/e903bac0acfe58bd.txt",
+      "local_is_summary": true,
       "local_readable": true,
       "available_local": true,
       "translations": {
@@ -205,6 +209,7 @@
       "local_asset": true,
       "original_document_url": null,
       "local_file_url": null,
+      "local_is_summary": false,
       "local_readable": false,
       "available_local": true,
       "enhancement": {
@@ -259,6 +264,7 @@
       "local_asset": true,
       "original_document_url": null,
       "local_file_url": null,
+      "local_is_summary": false,
       "local_readable": false,
       "available_local": true,
       "enhancement": {
@@ -313,6 +319,7 @@
       "local_asset": true,
       "original_document_url": null,
       "local_file_url": null,
+      "local_is_summary": false,
       "local_readable": false,
       "available_local": true,
       "enhancement": {
@@ -366,6 +373,7 @@
       "local_asset": false,
       "original_document_url": "assets/2471255989bfd975.docx",
       "local_file_url": "assets/family-document-0.html",
+      "local_is_summary": false,
       "local_readable": true,
       "local_document": true,
       "available_local": true,
@@ -406,6 +414,7 @@
       "local_asset": false,
       "original_document_url": "assets/9091c600ac1b551b.docx",
       "local_file_url": "assets/family-document-1.html",
+      "local_is_summary": false,
       "local_readable": true,
       "local_document": true,
       "available_local": true,
@@ -453,6 +462,7 @@
       "local_asset": true,
       "original_document_url": "assets/faa6db72d6410717.pdf",
       "local_file_url": "assets/faa6db72d6410717.pdf",
+      "local_is_summary": false,
       "local_readable": true,
       "local_document": true,
       "available_local": true,
@@ -503,6 +513,7 @@
       "local_asset": true,
       "original_document_url": "assets/faa6db72d6410717.pdf",
       "local_file_url": "assets/faa6db72d6410717.pdf",
+      "local_is_summary": false,
       "local_readable": true,
       "local_document": true,
       "available_local": true,
@@ -549,6 +560,7 @@
       "local_asset": true,
       "original_document_url": null,
       "local_file_url": "assets/2e80e9505b39cf8a.txt",
+      "local_is_summary": true,
       "local_readable": true,
       "available_local": true,
       "translations": {
@@ -592,6 +604,7 @@
       "local_asset": true,
       "original_document_url": null,
       "local_file_url": "assets/37897e779161c3a8.txt",
+      "local_is_summary": true,
       "local_readable": true,
       "available_local": true,
       "translations": {
@@ -636,6 +649,7 @@
       "local_asset": true,
       "original_document_url": null,
       "local_file_url": "assets/1e919c3e74771fb8.txt",
+      "local_is_summary": true,
       "local_readable": true,
       "available_local": true,
       "translations": {
@@ -677,6 +691,7 @@
       "local_asset": true,
       "original_document_url": null,
       "local_file_url": "assets/cfe135d2d8a018b5.txt",
+      "local_is_summary": true,
       "local_readable": true,
       "available_local": true,
       "enhancement": {
@@ -731,6 +746,7 @@
       "local_asset": false,
       "original_document_url": "assets/1ca6abde90a28a69.pdf",
       "local_file_url": "assets/1ca6abde90a28a69.pdf",
+      "local_is_summary": false,
       "local_readable": true,
       "local_document": true,
       "available_local": true,
@@ -775,6 +791,7 @@
       "local_asset": true,
       "original_document_url": "assets/eb3f2ea7c9d9f3fe.pdf",
       "local_file_url": "assets/eb3f2ea7c9d9f3fe.pdf",
+      "local_is_summary": false,
       "local_readable": true,
       "local_document": true,
       "available_local": true,
@@ -822,6 +839,7 @@
       "local_asset": false,
       "original_document_url": "assets/099c94be617e0e83.pdf",
       "local_file_url": "assets/099c94be617e0e83.pdf",
+      "local_is_summary": false,
       "local_readable": true,
       "local_document": true,
       "available_local": true,
@@ -872,6 +890,7 @@
       "local_asset": false,
       "original_document_url": null,
       "local_file_url": "assets/419cf24f650a5051.txt",
+      "local_is_summary": true,
       "local_readable": true,
       "available_local": false,
       "translations": {
@@ -917,6 +936,7 @@
       "local_asset": false,
       "original_document_url": null,
       "local_file_url": "assets/8a42a65ad540bffe.txt",
+      "local_is_summary": true,
       "local_readable": true,
       "available_local": false,
       "translations": {
@@ -962,6 +982,7 @@
       "local_asset": false,
       "original_document_url": null,
       "local_file_url": "assets/fdf1c094afd0af9c.txt",
+      "local_is_summary": true,
       "local_readable": true,
       "available_local": false,
       "translations": {
@@ -1010,6 +1031,7 @@
       "local_asset": false,
       "original_document_url": null,
       "local_file_url": "assets/e2cb09ff2acdbdf7.txt",
+      "local_is_summary": true,
       "local_readable": true,
       "available_local": false,
       "translations": {
@@ -1055,6 +1077,7 @@
       "local_asset": false,
       "original_document_url": null,
       "local_file_url": "assets/91b7d394da40da5c.txt",
+      "local_is_summary": true,
       "local_readable": true,
       "available_local": false,
       "translations": {
@@ -1099,6 +1122,7 @@
       "local_asset": false,
       "original_document_url": null,
       "local_file_url": "assets/0017c5eb18f482f3.txt",
+      "local_is_summary": true,
       "local_readable": true,
       "available_local": false,
       "translations": {
@@ -1144,6 +1168,7 @@
       "local_asset": false,
       "original_document_url": null,
       "local_file_url": "assets/0787ddd6f9c289ae.txt",
+      "local_is_summary": true,
       "local_readable": true,
       "available_local": false,
       "translations": {
@@ -1187,6 +1212,7 @@
       "local_asset": false,
       "original_document_url": null,
       "local_file_url": "assets/38db0188754cb9af.txt",
+      "local_is_summary": true,
       "local_readable": true,
       "available_local": false,
       "translations": {
@@ -1230,6 +1256,7 @@
       "local_asset": false,
       "original_document_url": null,
       "local_file_url": "assets/54e8871c110d1241.txt",
+      "local_is_summary": true,
       "local_readable": true,
       "available_local": false,
       "translations": {
@@ -1276,6 +1303,7 @@
       "local_asset": false,
       "original_document_url": null,
       "local_file_url": "assets/91a66671ba84bd9e.txt",
+      "local_is_summary": true,
       "local_readable": true,
       "available_local": false,
       "translations": {
@@ -1322,6 +1350,7 @@
       "local_asset": false,
       "original_document_url": null,
       "local_file_url": "assets/6d89b81b8d383400.txt",
+      "local_is_summary": true,
       "local_readable": true,
       "available_local": false,
       "translations": {
@@ -1369,6 +1398,7 @@
       "local_asset": false,
       "original_document_url": null,
       "local_file_url": "assets/5df32618c3e102fa.txt",
+      "local_is_summary": true,
       "local_readable": true,
       "available_local": false,
       "translations": {
@@ -1414,6 +1444,7 @@
       "local_asset": false,
       "original_document_url": null,
       "local_file_url": "assets/6cf9eb4d44babbaa.txt",
+      "local_is_summary": true,
       "local_readable": true,
       "available_local": false,
       "translations": {
@@ -1458,6 +1489,7 @@
       "local_asset": false,
       "original_document_url": null,
       "local_file_url": "assets/71e83f7e58fdb189.txt",
+      "local_is_summary": true,
       "local_readable": true,
       "available_local": false,
       "translations": {
@@ -1503,6 +1535,7 @@
       "local_asset": false,
       "original_document_url": null,
       "local_file_url": "assets/643a6ea02f705e4b.txt",
+      "local_is_summary": true,
       "local_readable": true,
       "available_local": false,
       "translations": {
@@ -1547,6 +1580,7 @@
       "local_asset": false,
       "original_document_url": null,
       "local_file_url": "assets/f31f5f1e317d79e5.txt",
+      "local_is_summary": true,
       "local_readable": true,
       "available_local": false,
       "translations": {
@@ -1592,6 +1626,7 @@
       "local_asset": false,
       "original_document_url": null,
       "local_file_url": "assets/089af9db9884c140.txt",
+      "local_is_summary": true,
       "local_readable": true,
       "available_local": false,
       "translations": {
@@ -1613,9 +1648,9 @@
       }
     }
   ],
-  "revision": "80770a459657c6cb",
-  "ui_revision": "98136d06c0191dc6",
+  "revision": "9077adf952de8900",
+  "ui_revision": "ec5c3cde906fcd7d",
   "live": false,
-  "updated_at": "2026-09-30T17:07:48.915Z",
-  "published_at": "2026-09-30T17:07:49.092Z"
+  "updated_at": "2026-09-30T17:08:37.390Z",
+  "published_at": "2026-09-30T17:08:37.720Z"
 }
