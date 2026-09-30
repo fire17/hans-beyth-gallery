@@ -58,6 +58,17 @@
       "local_file_url": null,
       "local_readable": false,
       "available_local": true,
+      "enhancement": {
+        "image_url": "assets/4c2b62901e0be6fb.png",
+        "original_width": 486,
+        "original_height": 681,
+        "enhanced_width": 1059,
+        "enhanced_height": 1485,
+        "note_de": "KI-bearbeitete Version; das historische Original bleibt separat erhalten.",
+        "note_en": "AI-enhanced derivative; the historical original remains separately available. Fine details may be AI-interpreted and are not verified recovery.",
+        "note_he": "גרסה משופרת באמצעות בינה מלאכותית; התצלום המקורי נשמר בנפרד. פרטים עדינים עשויים להיות פרשנות של הבינה המלאכותית ואינם שחזור מאומת.",
+        "method": "AI enhancement"
+      },
       "translations": {
         "de": {
           "title": "Hans Beyth und Henrietta Szold am Bahnhof Lod",
@@ -196,6 +207,17 @@
       "local_file_url": null,
       "local_readable": false,
       "available_local": true,
+      "enhancement": {
+        "image_url": "assets/c39b76ba57644837.png",
+        "original_width": 1028,
+        "original_height": 1033,
+        "enhanced_width": 1254,
+        "enhanced_height": 1254,
+        "note_de": "KI-bearbeitete Version; das historische Original bleibt separat erhalten.",
+        "note_en": "AI-enhanced derivative; the historical original remains separately available. Fine details may be AI-interpreted and are not verified recovery.",
+        "note_he": "גרסה משופרת באמצעות בינה מלאכותית; התצלום המקורי נשמר בנפרד. פרטים עדינים עשויים להיות פרשנות של הבינה המלאכותית ואינם שחזור מאומת.",
+        "method": "AI enhancement"
+      },
       "translations": {
         "de": {
           "title": "Menschenmenge auf einer Straße",
@@ -1591,9 +1613,9 @@
       }
     }
   ],
-  "revision": "23fe8058a0fc58a9",
+  "revision": "80770a459657c6cb",
   "ui_revision": "98136d06c0191dc6",
   "live": false,
-  "updated_at": "2026-09-30T17:07:20.813Z",
-  "published_at": "2026-09-30T17:07:20.955Z"
+  "updated_at": "2026-09-30T17:07:48.915Z",
+  "published_at": "2026-09-30T17:07:49.092Z"
 }
