@@ -26,9 +26,9 @@
         "original_height": 3340,
         "enhanced_width": 1449,
         "enhanced_height": 1085,
-        "note_de": "KI-bearbeitete Version; das historische Original bleibt separat erhalten.",
-        "note_en": "AI-enhanced derivative; the historical original remains separately available. Output has lower pixel dimensions than the original, and fine details are AI-interpreted, not verified recovery.",
-        "note_he": "גרסה משופרת באמצעות בינה מלאכותית; התצלום המקורי נשמר בנפרד. לגרסה זו פחות פיקסלים מהמקור, ופרטים עדינים הם פרשנות של הבינה המלאכותית ולא שחזור מאומת.",
+        "note_de": "KI-bearbeitete Alternative mit geringerer Auflösung als das Original; das historische Original bleibt für die Detailansicht separat erhalten.",
+        "note_en": "AI-edited alternative at lower resolution than the original; the historical original remains the best choice for deep zoom.",
+        "note_he": "חלופה שעובדה בבינה מלאכותית ברזולוציה נמוכה מזו של המקור; המקור ההיסטורי נשמר בנפרד והוא עדיף להגדלה עמוקה.",
         "method": "AI enhancement"
       },
       "translations": {
@@ -351,8 +351,8 @@
         "enhanced_width": 1610,
         "enhanced_height": 977,
         "note_de": "KI-bearbeitete Version; das historische Original bleibt separat erhalten.",
-        "note_en": "AI-enhanced derivative; the historical original remains separately available. Fine details may be AI-interpreted and are not verified recovery.",
-        "note_he": "גרסה משופרת באמצעות בינה מלאכותית; התצלום המקורי נשמר בנפרד. פרטים עדינים עשויים להיות פרשנות של הבינה המלאכותית ואינם שחזור מאומת.",
+        "note_en": "AI-enhanced derivative; the historical original remains available separately. Fine details may be interpreted by AI and are not verified recovery.",
+        "note_he": "גרסה משופרת באמצעות בינה מלאכותית; התצלום ההיסטורי המקורי נשמר בנפרד. פרטים עדינים עשויים להיות פרשנות של הבינה המלאכותית ואינם שחזור מאומת.",
         "method": "AI enhancement"
       },
       "translations": {
@@ -1703,9 +1703,9 @@
       }
     }
   ],
-  "revision": "12e5bd2dda4b233f",
+  "revision": "5bf5e7880600f3e1",
   "ui_revision": "12bf0758010f6a19",
   "live": false,
-  "updated_at": "2026-09-30T17:30:28.044Z",
-  "published_at": "2026-09-30T17:30:28.256Z"
+  "updated_at": "2026-09-30T17:36:41.365Z",
+  "published_at": "2026-09-30T17:36:41.581Z"
 }
