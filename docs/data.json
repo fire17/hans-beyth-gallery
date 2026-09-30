@@ -640,6 +640,17 @@
       "local_is_summary": true,
       "local_readable": true,
       "available_local": true,
+      "enhancement": {
+        "image_url": "assets/5b0dab6f6ee89b67.png",
+        "original_width": 800,
+        "original_height": 584,
+        "enhanced_width": 1469,
+        "enhanced_height": 1071,
+        "note_de": "KI-bearbeitete Version; das historische Original bleibt separat erhalten.",
+        "note_en": "AI-enhanced derivative; the historical original remains separately available. Fine details may be AI-interpreted and are not verified recovery.",
+        "note_he": "גרסה משופרת באמצעות בינה מלאכותית; התצלום ההיסטורי המקורי נשמר בנפרד. פרטים עדינים עשויים להיות פרשנות של הבינה המלאכותית ואינם שחזור מאומת.",
+        "method": "AI enhancement"
+      },
       "translations": {
         "de": {
           "title": "Szold und Beyth erwarten die Kinder aus Teheran in Atlit",
@@ -1692,9 +1703,9 @@
       }
     }
   ],
-  "revision": "121290a145ef1180",
-  "ui_revision": "aaee8d48ab7434b0",
+  "revision": "12e5bd2dda4b233f",
+  "ui_revision": "12bf0758010f6a19",
   "live": false,
-  "updated_at": "2026-09-30T17:27:19.564Z",
-  "published_at": "2026-09-30T17:27:19.734Z"
+  "updated_at": "2026-09-30T17:30:28.044Z",
+  "published_at": "2026-09-30T17:30:28.256Z"
 }
