@@ -7,7 +7,46 @@ function viewerLabels(){document.querySelector('#zoom-fit').textContent=vw('fit'
 function transform(){viewerImage.style.width=viewerImage.naturalWidth+'px';viewerImage.style.height=viewerImage.naturalHeight+'px';viewerImage.style.transform=`translate(-50%,-50%) translate(${viewerX}px,${viewerY}px) scale(${viewerScale})`;document.querySelector('#zoom-level').textContent=Math.round(viewerScale*100)+'%'}
 function fitImage(){if(!viewerImage.naturalWidth)return;viewerScale=Math.min((viewport.clientWidth-24)/viewerImage.naturalWidth,(viewport.clientHeight-24)/viewerImage.naturalHeight,1);viewerX=0;viewerY=0;transform()}
 function zoomImage(factor,cx=viewport.clientWidth/2,cy=viewport.clientHeight/2){const old=viewerScale;viewerScale=Math.max(.02,Math.min(10,viewerScale*factor));const ratio=viewerScale/old;viewerX=(viewerX-(cx-viewport.clientWidth/2))*ratio+(cx-viewport.clientWidth/2);viewerY=(viewerY-(cy-viewport.clientHeight/2))*ratio+(cy-viewport.clientHeight/2);transform()}
-function selectVersion(mode){if(!viewerItem)return;if(mode==='enhanced'&&!viewerItem.enhancement)return;viewerMode=mode;const item=viewerItem;viewerImage.onload=()=>{fitImage();const note=mode==='enhanced'?((viewerImage.naturalWidth<item.enhancement.original_width||viewerImage.naturalHeight<item.enhancement.original_height?vw('lowerResolution')+' ':'')+(item.enhancement['note_'+language]||'')+' '+vw('caution')):vw('hint');document.querySelector('#viewer-detail').textContent=viewerImage.naturalWidth+' × '+viewerImage.naturalHeight+' '+vw('dimensions')+' · '+note};viewerImage.src=safeUrl(mode==='enhanced'?item.enhancement.image_url:item.image_url);viewerImage.alt=field(item,'title')+' · '+vw(mode==='enhanced'?'enhanced':'original');document.querySelector('#viewer-download').href=viewerImage.src;document.querySelector('#version-original').setAttribute('aria-pressed',String(mode==='original'));document.querySelector('#version-enhanced').setAttribute('aria-pressed',String(mode==='enhanced'))}
+Object.assign(viewerWords.de,{loading:'Vorschau · Die volle Auflösung wird geladen …',loadFailed:'Die volle Auflösung konnte nicht geladen werden. Die Vorschau bleibt sichtbar.'});
+Object.assign(viewerWords.en,{loading:'Preview · Loading full resolution …',loadFailed:'Full resolution could not be loaded. The preview remains visible.'});
+Object.assign(viewerWords.he,{loading:'תצוגה מקדימה · הרזולוציה המלאה נטענת…',loadFailed:'לא ניתן לטעון את הרזולוציה המלאה. התצוגה המקדימה נשארת זמינה.'});
+let viewerLoadToken=0;
+function selectVersion(mode){
+  if(!viewerItem||mode==='enhanced'&&!viewerItem.enhancement)return;
+  viewerMode=mode;
+  const token=++viewerLoadToken,item=viewerItem,profile=mode==='enhanced'?item.enhancement.preview:item.image_preview;
+  const fullUrl=safeUrl(mode==='enhanced'?item.enhancement.image_url:item.image_url);
+  const cardImage=mode==='original'?Array.from(gallery.children).find(c=>c.dataset.id===item.id)?.querySelector('img'):null;
+  const previewUrl=cardImage?.naturalWidth?cardImage.currentSrc:safeUrl(profile?.variants?.at(-1)?.url);
+  let previewLoaded=false;
+  viewerImage.style.visibility='hidden';viewerImage.decoding='async';viewerImage.alt=field(item,'title')+' · '+vw(mode==='enhanced'?'enhanced':'original');
+  document.querySelector('#viewer-download').href=fullUrl;
+  document.querySelector('#viewer-detail').textContent=vw('loading');
+  document.querySelector('#version-original').setAttribute('aria-pressed',String(mode==='original'));
+  document.querySelector('#version-enhanced').setAttribute('aria-pressed',String(mode==='enhanced'));
+  if(previewUrl){
+    viewerImage.onload=()=>{if(token!==viewerLoadToken)return;previewLoaded=true;viewerImage.style.visibility='visible';fitImage()};
+    viewerImage.src=previewUrl;
+  }
+  const fullImage=new Image();fullImage.decoding='async';
+  fullImage.onerror=()=>{if(token===viewerLoadToken)document.querySelector('#viewer-detail').textContent=vw('loadFailed')};
+  fullImage.onload=async()=>{
+    try{await fullImage.decode()}catch{}
+    if(token!==viewerLoadToken||!dialog.open)return;
+    const previousWidth=previewLoaded?viewerImage.naturalWidth:0;
+    viewerImage.onload=()=>{
+      if(token!==viewerLoadToken)return;
+      viewerImage.style.visibility='visible';
+      // Preserve the user's pan and zoom when sharper pixels arrive.
+      if(previousWidth){viewerScale*=previousWidth/viewerImage.naturalWidth;transform()}else fitImage();
+      const note=mode==='enhanced'?((viewerImage.naturalWidth<item.enhancement.original_width||viewerImage.naturalHeight<item.enhancement.original_height?vw('lowerResolution')+' ':'')+(item.enhancement['note_'+language]||'')+' '+vw('caution')):vw('hint');
+      document.querySelector('#viewer-detail').textContent=viewerImage.naturalWidth+' × '+viewerImage.naturalHeight+' '+vw('dimensions')+' · '+note;
+    };
+    viewerImage.src=fullUrl;
+  };
+  fullImage.src=fullUrl;
+}
+dialog.addEventListener('close',()=>{viewerLoadToken++;viewerImage.onload=null;viewerImage.removeAttribute('src');viewerItem=null;pointer=null;viewport.classList.remove('dragging')});
 function openImage(item){viewerItem=item;viewerLabels();document.querySelector('#viewer-caption').textContent=field(item,'title')+(field(item,'date_label')?' · '+field(item,'date_label'):'');document.querySelector('#version-enhanced').hidden=!item.enhancement;dialog.showModal();selectVersion('original')}
 document.querySelector('#zoom-in').onclick=()=>zoomImage(1.3);document.querySelector('#zoom-out').onclick=()=>zoomImage(1/1.3);document.querySelector('#zoom-fit').onclick=fitImage;document.querySelector('#version-original').onclick=()=>selectVersion('original');document.querySelector('#version-enhanced').onclick=()=>selectVersion('enhanced');
 viewport.addEventListener('wheel',e=>{e.preventDefault();const r=viewport.getBoundingClientRect();zoomImage(e.deltaY<0?1.15:1/1.15,e.clientX-r.left,e.clientY-r.top)},{passive:false});viewport.addEventListener('pointerdown',e=>{pointer={id:e.pointerId,x:e.clientX,y:e.clientY,ox:viewerX,oy:viewerY};viewport.setPointerCapture(e.pointerId);viewport.classList.add('dragging')});viewport.addEventListener('pointermove',e=>{if(!pointer||e.pointerId!==pointer.id)return;viewerX=pointer.ox+e.clientX-pointer.x;viewerY=pointer.oy+e.clientY-pointer.y;transform()});for(const event of ['pointerup','pointercancel'])viewport.addEventListener(event,()=>{pointer=null;viewport.classList.remove('dragging')});
